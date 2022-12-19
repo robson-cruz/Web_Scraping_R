@@ -1,0 +1,1283 @@
+n;port443;ordem;familia;especie_subespecie;categoria
+1;*;Accipitriformes;Accipitridae;Amadonastur lacernulatus;VU
+2;*;Accipitriformes;Accipitridae;Circus cinereus;VU
+3;*;Accipitriformes;Accipitridae;Harpia harpyja;VU
+4;*;Accipitriformes;Accipitridae;Leptodon forbesi;EN
+5;*;Accipitriformes;Accipitridae;Morphnus guianensis;VU
+6;*;Accipitriformes;Accipitridae;Urubitinga coronata;EN
+7;*;Actiniaria;Actiniidae;Condylactis gigantea;EN
+8;*;Amblypygi;Charinidae;Charinus acaraje;VU
+9;*;Amblypygi;Charinidae;Charinus asturius;EN
+10;;Amblypygi;Charinidae;Charinus caatingae;CR
+11;*;Amblypygi;Charinidae;Charinus eleonorae;EN
+12;;Amblypygi;Charinidae;Charinus ferreus;CR
+13;*;Amblypygi;Charinidae;Charinus potiguar;VU
+14;;Amblypygi;Charinidae;Charinus spelaeus;VU
+15;;Amblypygi;Charinidae;Charinus taboa;CR
+16;*;Amblypygi;Charinidae;Charinus troglobius;EN
+17;;Amphipoda;Artesiidae;Spelaeogammarus bahiensis;VU
+18;;Amphipoda;Artesiidae;Spelaeogammarus sanctus;CR
+19;;Amphipoda;Artesiidae;Spelaeogammarus santanensis;CR
+20;;Amphipoda;Artesiidae;Spelaeogammarus spinilacertus;EN
+21;;Amphipoda;Artesiidae;Spelaeogammarus titan;CR
+22;;Amphipoda;Bogidiellidae;Megagidiella azul;VU
+23;;Amphipoda;Dogielinotidae;Hyalella caeca;VU
+24;;Amphipoda;Hyalellidae;Hyalella epikarstica;CR
+25;;Amphipoda;Hyalellidae;Hyalella formosa;CR
+26;;Amphipoda;Hyalellidae;Hyalella imbya;CR (PEX)
+27;;Amphipoda;Hyalellidae;Hyalella veredae;CR
+28;;Amphipoda;Mesogammaridae;Potiberaba porakuara;VU
+29;;Amphipoda;Sebidae;Seborgia potiguar;CR
+30;;Amphipoda;Artesiidae;Spelaeogammarus trajanoae;EN
+31;*;Anseriformes;Anatidae;Mergus octosetaceus;CR
+32;*;Anthoathecata;Milleporidae;Millepora laboreli;VU
+33;;Anura;Hylidae;Boana cymbalum;EX
+34;*;Anura;Phyllomedusidae;Phrynomedusa fimbriata;EX
+35;;Anura;Aromobatidae;Anomaloglossus apiau;EN
+36;;Anura;Aromobatidae;Anomaloglossus tepequem;CR (PEX)
+37;;Anura;Brachycephalidae;Brachycephalus mirissimus;VU
+38;*;Anura;Brachycephalidae;Brachycephalus pernix;CR
+39;;Anura;Brachycephalidae;Brachycephalus quiririensis;EN
+40;;Anura;Brachycephalidae;Ischnocnema epipeda;CR (PEX)
+41;;Anura;Brachycephalidae;Ischnocnema garciai;CR
+42;;Anura;Brachycephalidae;Ischnocnema karst;VU
+43;*;Anura;Brachycephalidae;Ischnocnema manezinho;EN
+44;*;Anura;Bufonidae;Melanophryniscus admirabilis;CR
+45;;Anura;Bufonidae;Melanophryniscus biancae;EN
+46;*;Anura;Bufonidae;Melanophryniscus cambaraensis;EN
+47;*;Anura;Bufonidae;Melanophryniscus dorsalis;VU
+48;;Anura;Bufonidae;Melanophryniscus klappenbachi;VU
+49;*;Anura;Bufonidae;Melanophryniscus macrogranulosus;EN
+50;;Anura;Bufonidae;Melanophryniscus montevidensis;VU
+51;*;Anura;Bufonidae;Melanophryniscus setiba;VU
+52;;Anura;Bufonidae;Rhinella casconi;CR
+53;;Anura;Ceratophryidae;Ceratophrys ornata;CR (PEX)
+54;*;Anura;Cycloramphidae;Cycloramphusdiringshofeni;CR
+55;*;Anura;Cycloramphidae;Cycloramphusfaustoi;VU
+56;;Anura;Cycloramphidae;Cycloramphusstejnegeri;CR (PEX)
+57;;Anura;Cycloramphidae;Thoropa lutzi;CR (PEX)
+58;*;Anura;Cycloramphidae;Thoropapetropolitana;CR (PEX)
+59;*;Anura;Eleutherodactylidae;Adelophryne maranguapensis;CR
+60;;Anura;Hylidae;Boana buriti;VU
+61;;Anura;Hylidae;Bokermannohyla napolii;VU
+62;*;Anura;Hylidae;Bokermannohyla vulcaniae;EN
+63;*;Anura;Hylidae;Nyctimantis pomba;CR
+64;*;Anura;Hylidae;Scinax alcatraz;VU
+65;*;Anura;Hylidae;Scinax faivovichi;VU
+66;;Anura;Hylidae;Scinax muriciensis;CR
+67;*;Anura;Hylidae;Scinax peixotoi;CR (PEX)
+68;;Anura;Hylidae;Scinax pinimus;VU
+69;;Anura;Hylidae;Sphaenorhynchusbromelicola;EN
+70;;Anura;Hylidae;Sphaenorhynchus cammaeus;CR
+71;;Anura;Hylidae;Sphaenorhynchus canga;CR
+72;*;Anura;Hylidae;Xenohyla truncata;VU
+73;;Anura;Hylodidae;Crossodactylusboulengeri;CR (PEX)
+74;*;Anura;Hylodidae;Crossodactylusdantei;CR
+75;;Anura;Hylodidae;Crossodactylusdispar;CR (PEX)
+76;;Anura;Hylodidae;Crossodactylusfranciscanus;CR (PEX)
+77;;Anura;Hylodidae;Hylodes glaber;CR (PEX)
+78;;Anura;Hylodidae;Hylodes magalhaesi;VU
+79;;Anura;Hylodidae;Hylodes mertensi;CR
+80;;Anura;Hylodidae;Hylodes sazimai;EN
+81;;Anura;Leptodactylidae;Crossodactylodesitambe;CR
+82;;Anura;Leptodactylidae;Crossodactylodesizecksohni;EN
+83;*;Anura;Leptodactylidae;Paratelmatobius lutzii;CR (PEX)
+84;*;Anura;Leptodactylidae;Physalaemus soaresi;CR
+85;*;Anura;Microhylidae;Chiasmocleisalagoana;VU
+86;;Anura;Odontophrynidae;Proceratophrys ararype;CR
+87;*;Anura;Odontophrynidae;Proceratophrys palustris;CR
+88;*;Anura;Odontophrynidae;Proceratophrys sanctaritae;CR
+89;;Anura;Phyllomedusidae;Phrynomedusa marginata;CR (PEX)
+90;;Anura;Phyllomedusidae;Phrynomedusa vanzolinii;CR (PEX)
+91;;Anura;Phyllomedusidae;Pithecopus rusticus;CR
+92;;Anura;Strabomantidae;Euparkerella robusta;CR
+93;*;Anura;Strabomantidae;Holoaden bradei;CR (PEX)
+94;*;Apodida;Synaptidae;Synaptula secreta;CR
+95;*;Apodiformes;Trochilidae;Augastes lumachella;EN
+96;;Apodiformes;Trochilidae;Campylopterus calcirupicola;EN
+97;;Apodiformes;Trochilidae;Colibridelphinae greenewalti;EN
+98;*;Apodiformes;Trochilidae;Discosuralangsdorffi langsdorffi;EN
+99;*;Apodiformes;Trochilidae;Glaucis dohrnii;VU
+100;*;Apodiformes;Trochilidae;Lophornis gouldii;VU
+101;*;Apodiformes;Trochilidae;Phaethornis aethopygus;VU
+102;*;Apodiformes;Trochilidae;Phaethornis major;VU
+103;*;Apodiformes;Trochilidae;Phaethornis margarettae;EN
+104;*;Apodiformes;Trochilidae;Thalurania watertonii;EN
+105;;Araneae;Caponiidae;Carajas paraua;EN
+106;;Araneae;Caponiidae;Tisentnops onix;CR
+107;*;Araneae;Corinnidae;Ianduba paubrasil;EN
+108;*;Araneae;Ctenidae;Celaetycheus mungunza;CR
+109;*;Araneae;Ctenidae;Isoctenus corymbus;CR
+110;*;Araneae;Dipluridae;Harmonicon cerberus;CR
+111;*;Araneae;Drymusidae;Drymusa spelunca;CR
+112;*;Araneae;Gnaphosidae;Brasilomma enigmatica;EN
+113;*;Araneae;Gnaphosidae;Tricongius ybyguara;VU
+114;*;Araneae;Ochyroceratidae;Ochyrocera ibitipoca;EN
+115;*;Araneae;Ochyroceratidae;Speocera eleonorae;EN
+116;*;Araneae;Pholcidae;Metagonia diamantina;CR
+117;*;Araneae;Pholcidae;Metagonia potiguar;CR
+118;*;Araneae;Salticidae;Matagaia chromatopus;VU
+119;*;Araneae;Salticidae;Neonella noronha;VU
+120;;Araneae;Segestriidae;Ariadna aurea;VU
+121;;Araneae;Sicariidae;Loxosceles troglobia;VU
+122;*;Araneae;Theraphosidae;Dolichothele diamantinensis;EN
+123;*;Araneae;Theraphosidae;Pterinopelma sazimai;VU
+124;*;Araneae;Theraphosidae;Tmesiphantes hypogeus;CR
+125;*;Araneae;Theraphosidae;Typhochlaena curumim;CR
+126;*;Araneae;Theraphosidae;Typhochlaena seladonia;EN
+127;*;Araneae;Theraphosidae;Ybyrapora diversipes;EN
+128;*;Araneae;Theraphosidae;Ybyrapora gamba;CR
+129;*;Atheriniformes;Atherinopsidae;Odontesthes bicudo;EN
+130;;Blattodea;Blattellidae;Litoblatta camargoi;EN
+131;*;Caenogastropoda;Hydrobiidae;Potamolithus troglobius;CR
+132;*;Caenogastropoda;Ampullariidae;Pomacea sordida;EN
+133;*;Caenogastropoda;Hydrobiidae;Potamolithus karsticus;CR
+134;*;Camarodonta;Toxopneustidae;Lytechinus variegatus;VU
+135;*;Caprimulgiformes;Caprimulgidae;Hydropsalis candicans;EN
+136;;Caprimulgiformes;Caprimulgidae;Nyctiprogne vielliardi;EN
+137;;Carcharhiniformes;Carcharhinidae;Carcharhinus acronotus;VU
+138;;Carcharhiniformes;Carcharhinidae;Carcharhinus brevipinna;VU
+139;;Carcharhiniformes;Carcharhinidae;Carcharhinus falciformis;CR
+140;;Carcharhiniformes;Carcharhinidae;Carcharhinus leucas;VU
+141;*;Carcharhiniformes;Carcharhinidae;Carcharhinusgalapagensis;CR
+142;*;Carcharhiniformes;Carcharhinidae;Carcharhinuslongimanus;VU
+143;*;Carcharhiniformes;Carcharhinidae;Carcharhinusobscurus;EN
+144;*;Carcharhiniformes;Carcharhinidae;Carcharhinus perezi;VU
+145;*;Carcharhiniformes;Carcharhinidae;Carcharhinusplumbeus;CR
+146;*;Carcharhiniformes;Carcharhinidae;Carcharhinusporosus;CR
+147;*;Carcharhiniformes;Carcharhinidae;Carcharhinussignatus;EN
+148;*;Carcharhiniformes;Carcharhinidae;Isogomphodon oxyrhynchus;CR
+149;*;Carcharhiniformes;Carcharhinidae;Negaprion brevirostris;EN
+150;*;Carcharhiniformes;Sphyrnidae;Sphyrna lewini;CR
+151;*;Carcharhiniformes;Sphyrnidae;Sphyrna media;CR
+152;*;Carcharhiniformes;Sphyrnidae;Sphyrna mokarran;CR
+153;*;Carcharhiniformes;Sphyrnidae;Sphyrna tiburo;CR
+154;*;Carcharhiniformes;Sphyrnidae;Sphyrna tudes;CR
+155;*;Carcharhiniformes;Sphyrnidae;Sphyrna zygaena;CR
+156;*;Carcharhiniformes;Triakidae;Galeorhinus galeus;CR
+157;*;Carcharhiniformes;Triakidae;Mustelus canis;EN
+158;*;Carcharhiniformes;Triakidae;Mustelus fasciatus;CR
+159;*;Carcharhiniformes;Triakidae;Mustelus schmitti;CR
+160;*;Carnivora;Canidae;Atelocynus microtis;VU
+161;*;Carnivora;Canidae;Chrysocyon brachyurus;VU
+162;*;Carnivora;Canidae;Lycalopex vetulus;VU
+163;*;Carnivora;Canidae;Speothos venaticus;VU
+164;*;Carnivora;Felidae;Herpailurus yagouaroundi;VU
+165;*;Carnivora;Felidae;Herpailurus yagouaroundi;VU
+166;*;Carnivora;Felidae;Herpailurus yagouaroundi;VU
+167;*;Carnivora;Felidae;Herpailurus yagouaroundi;VU
+168;*;Carnivora;Felidae;Herpailurus yagouarondi;VU
+169;*;Carnivora;Felidae;Leopardus colocolo;VU
+170;*;Carnivora;Felidae;Leopardus geoffroyi;VU
+171;*;Carnivora;Felidae;Leopardus guttulus;VU
+172;*;Carnivora;Felidae;Leopardus tigrinus;EN
+173;*;Carnivora;Felidae;Leopardus wiedii;VU
+174;*;Carnivora;Felidae;Panthera onca;VU
+175;*;Carnivora;Mustelidae;Pteronura brasiliensis;VU
+176;*;Cassiduloida;Cassidulidae;Cassidulus mitis;EN
+177;*;Cetartiodactyla;Cervidae;Blastocerus dichotomus;VU
+178;*;Cetartiodactyla;Cervidae;Mazama nana;VU
+179;*;Cetartiodactyla;Cervidae;Ozotocerosbezoarticusbezoarticus;VU
+180;*;Cetartiodactyla;Tayassuidae;Tayassu pecari;VU
+181;*;Cetartiodactyla;Balaenidae;Eubalaena australis;EN
+182;*;Cetartiodactyla;Balaenopteridae;Balaenoptera borealis;EN
+183;*;Cetartiodactyla;Balaenopteridae;Balaenoptera musculus;CR
+184;*;Cetartiodactyla;Balaenopteridae;Balaenoptera physalus;EN
+185;*;Cetartiodactyla;Delphinidae;Sotalia guianensis;VU
+186;;Cetartiodactyla;Delphinidae;Tursiops gephyreus;EN
+187;;Cetartiodactyla;Iniidae;Inia araguaiaensis;VU
+188;*;Cetartiodactyla;Iniidae;Inia geoffrensis;EN
+189;*;Cetartiodactyla;Physeteridae;Physeter macrocephalus;VU
+190;*;Cetartiodactyla;Pontoporiidae;Pontoporia blainvillei;CR
+191;*;Characiformes;Anostomidae;Hypomasticus thayeri;VU
+192;*;Characiformes;Anostomidae;Leporinus guttatus;VU
+193;*;Characiformes;Anostomidae;Leporinus pitingai;CR
+194;*;Characiformes;Anostomidae;Sartor tucuruiense;EN
+195;*;Characiformes;Characidae;Astyanax eremus;CR
+196;*;Characiformes;Characidae;Brycon devillei;EN
+197;*;Characiformes;Characidae;Brycon gouldingi;EN
+198;*;Characiformes;Characidae;Brycon insignis;EN
+199;*;Characiformes;Characidae;Brycon opalinus;VU
+200;*;Characiformes;Characidae;Brycon orbignyanus;CR
+201;*;Characiformes;Characidae;Brycon vermelha;EN
+202;*;Characiformes;Characidae;Bryconamericus lambari;EN
+203;*;Characiformes;Characidae;Diapoma pyrrhopteryx;EN
+204;*;Characiformes;Characidae;Hasemania crenuchoides;EN
+205;;Characiformes;Characidae;Hasemania maxillaris;CR (PEX)
+206;;Characiformes;Characidae;Hasemania melanura;CR (PEX)
+207;*;Characiformes;Characidae;Hasemania piatan;EN
+208;;Characiformes;Characidae;Hasemania uberaba;EN
+209;*;Characiformes;Characidae;Henochilus wheatlandii;CR
+210;*;Characiformes;Characidae;Hollandichthys taramandahy;EN
+211;*;Characiformes;Characidae;Hyphessobrycon duragenys;EN
+212;*;Characiformes;Characidae;Hyphessobrycon flammeus;EN
+213;*;Characiformes;Characidae;Hyphessobrycon flammeus;EN
+214;;Characiformes;Characidae;Hyphessobrycon taurocephalus;CR (PEX)
+215;*;Characiformes;Characidae;Kolpotocheirodon figueiredoi;CR
+216;*;Characiformes;Characidae;Lepidocharax diamantina;EN
+217;*;Characiformes;Characidae;Mimagoniates lateralis;VU
+218;*;Characiformes;Characidae;Mimagoniates sylvicola;EN
+219;*;Characiformes;Characidae;Rachoviscus crassiceps;EN
+220;*;Characiformes;Characidae;Rachoviscus graciliceps;EN
+221;*;Characiformes;Characidae;Rhinopetitia potamorhachia;EN
+222;*;Characiformes;Characidae;Spintherobolus ankoseion;VU
+223;*;Characiformes;Characidae;Spintherobolus broccae;EN
+224;*;Characiformes;Characidae;Spintherobolus leptoura;EN
+225;*;Characiformes;Characidae;Spintherobolus papilliferus;EN
+226;*;Characiformes;Characidae;Stygichthys typhlops;EN
+227;*;Characiformes;Crenuchidae;Characidium grajahuensis;CR
+228;*;Characiformes;Crenuchidae;Characidium vestigipinne;CR
+229;*;Characiformes;Crenuchidae;Melanocharacidium nigrum;EN
+230;*;Characiformes;Cynodontidae;Roestes itupiranga;VU
+231;*;Characiformes;Lebiasinidae;Lebiasina marilynae;VU
+232;*;Characiformes;Lebiasinidae;Lebiasina melanoguttata;VU
+233;*;Characiformes;Lebiasinidae;Lebiasina minuta;VU
+234;*;Characiformes;Parodontidae;Apareiodon davisi;EN
+235;*;Characiformes;Prochilodontidae;Prochilodus britskii;EN
+236;*;Characiformes;Prochilodontidae;Prochilodus vimboides;VU
+237;*;Characiformes;Serrasalmidae;Mylesinus paucisquamatus;EN
+238;*;Characiformes;Serrasalmidae;Myloplus tiete;EN
+239;*;Characiformes;Serrasalmidae;Ossubtus xinguense;VU
+240;*;Charadriiformes;Scolopacidae;Numenius borealis;RE
+241;;Charadriiformes;Burhinidae;Burhinus bistriatus;VU
+242;*;Charadriiformes;Charadriidae;Charadrius wilsonia;VU
+243;*;Charadriiformes;Laridae;Sterna dougallii;VU
+244;*;Charadriiformes;Laridae;Sterna hirundinacea;VU
+245;;Charadriiformes;Laridae;Thalasseus acuflavidus;VU
+246;;Charadriiformes;Laridae;Thalasseus acuflavidus;VU
+247;;Charadriiformes;Laridae;Thalasseus acuflavidus;VU
+248;;Charadriiformes;Laridae;Thalasseus acuflavidus;VU
+249;*;Charadriiformes;Laridae;Thalasseus maximus;EN
+250;*;Charadriiformes;Scolopacidae;Calidris canutus;VU
+251;*;Charadriiformes;Scolopacidae;Calidris pusilla;EN
+252;*;Charadriiformes;Scolopacidae;Calidris subruficollis;VU
+253;*;Charadriiformes;Scolopacidae;Limnodromus griseus;EN
+254;;Charadriiformes;Scolopacidae;Numenius hudsonicus;VU
+255;*;Chiroptera;Furipteridae;Furipterus horrens;VU
+256;*;Chiroptera;Natalidae;Natalus macrourus;VU
+257;;Chiroptera;Phyllostomidae;Lonchophylla bokermanni;VU
+258;*;Chiroptera;Phyllostomidae;Lonchophylla dekeyseri;EN
+259;*;Cingulata;Dasypodidae;Priodontes maximus;VU
+260;*;Cingulata;Dasypodidae;Tolypeutes tricinctus;EN
+261;*;Coleoptera;Dytiscidae;Copelatus cessaima;EN
+262;;Coleoptera;Carabidae;Coarazuphium amazonicum;CR
+263;*;Coleoptera;Carabidae;Coarazuphium caatinga;EN
+264;*;Coleoptera;Carabidae;Coarazuphium cessaima;EN
+265;*;Coleoptera;Carabidae;Coarazuphium formoso;CR
+266;*;Coleoptera;Carabidae;Coarazuphium pains;EN
+267;*;Coleoptera;Carabidae;Coarazuphium ricardoi;CR
+268;;Coleoptera;Carabidae;Coarazuphium spinifemur;CR
+269;*;Coleoptera;Carabidae;Coarazuphium tapiaguassu;EN
+270;*;Coleoptera;Carabidae;Coarazuphium tessai;CR
+271;*;Coleoptera;Carabidae;Schizogeniusocellatus;EN
+272;*;Coleoptera;Ciidae;Ceracis cassumbensis;EN
+273;*;Coleoptera;Lampyridae;Amydetes bellorum;EN
+274;*;Coleoptera;Lucanidae;Altitatiayus campoi;VU
+275;*;Coleoptera;Lucanidae;Altitatiayus dulceae;VU
+276;*;Coleoptera;Lucanidae;Altitatiayus godinhorum;VU
+277;*;Coleoptera;Lucanidae;Altitatiayus koikei;VU
+278;*;Coleoptera;Lucanidae;Altitatiayus rotundatus;VU
+279;*;Coleoptera;Lucanidae;Altitatiayus ruficollis;VU
+280;*;Coleoptera;Lucanidae;Altitatiayus trifurcatus;VU
+281;*;Coleoptera;Lycidae;Cartagonum apiuba;CR
+282;*;Coleoptera;Lycidae;Lycomorphonbrasiliense;CR
+283;*;Coleoptera;Scarabaeidae;Ateuchus squalidus;VU
+284;*;Coleoptera;Scarabaeidae;Canthon corpulentus;VU
+285;*;Coleoptera;Scarabaeidae;Canthon quadripunctatus;VU
+286;*;Coleoptera;Scarabaeidae;Dichotomius eucranioides;EN
+287;*;Coleoptera;Scarabaeidae;Dichotomius mysticus;EN
+288;*;Coleoptera;Scarabaeidae;Dichotomiusschiffleri;EN
+289;*;Coleoptera;Scarabaeidae;Pedaridium hirsutum;VU
+290;;Coleoptera;Staphylinidae;Metopiellus painensis;EN
+291;*;Coleoptera;Vesperidae;Hypocephalus armatus;VU
+292;*;Coleoptera;Vesperidae;Hybocephalus armatus;VU
+293;*;Collembola;Arrhopalitidae;Arrhopalites amorimi;VU
+294;;Collembola;Arrhopalitidae;Arrhopalites glabrofasciatus;EN
+295;;Collembola;Entomobryidae;Pseudosinella ambigua;VU
+296;;Collembola;Entomobryidae;Pseudosinella guanhaensis;CR
+297;;Collembola;Isotomidae;Archisotoma arariboia;CR
+298;*;Collembola;Paronellidae;Troglobius brasiliensis;CR
+299;*;Collembola;Paronellidae;Troglobius ferroicus;CR
+300;*;Collembola;Paronellidae;Trogolaphysa aelleni;CR
+301;*;Collembola;Paronellidae;Trogolaphysa alleni;CR
+302;*;Collembola;Sminthuridae;Pararrhopalites papaveroi;EN
+303;;Collembola;Sminthuridae;Pararrhopalites sideroicus;CR
+304;;Collembola;Sminthuridae;Pararrhopalites ubiquum;VU
+305;*;Collembola;Sminthuridae;Pararrhopalites wallacei;CR
+306;*;Columbiformes;Columbidae;Columbina cyanopis;CR
+307;*;Columbiformes;Columbidae;Paraclaravis geoffroyi;CR (PEX)
+308;*;Coraciiformes;Momotidae;Momotus momota marcgraviana;EN
+309;*;Cuculiformes;Cuculidae;Neomorphus geoffroyi;VU
+310;*;Cuculiformes;Cuculidae;Neomorphus geoffroyi amazonicus;VU
+311;*;Cuculiformes;Cuculidae;Neomorphus geoffroyi dulcis;EN
+312;*;Cuculiformes;Cuculidae;Neomorphus geoffroyi geoffroyi;CR (PEX)
+313;*;Cuculiformes;Cuculidae;Neomorphus squamiger;VU
+314;*;Cyprinodontiformes;Anablepidae;Jenynsia sanctaecatarinae;EN
+315;*;Cyprinodontiformes;Poeciliidae;Cnesterodon carnegiei;VU
+316;*;Cyprinodontiformes;Poeciliidae;Cnesterodon iguape;CR
+317;*;Cyprinodontiformes;Poeciliidae;Cnesterodonomorgmatos;CR
+318;*;Cyprinodontiformes;Poeciliidae;Pamphorichthys pertapeh;CR
+319;*;Cyprinodontiformes;Poeciliidae;Phalloptychus eigenmanni;CR
+320;*;Cyprinodontiformes;Poeciliidae;Phallotorynus fasciolatus;CR (PEX)
+321;*;Cyprinodontiformes;Rivulidae;Anablepsoides cearensis;CR
+322;*;Cyprinodontiformes;Rivulidae;Atlantirivulus lazzarotoi;CR
+323;*;Cyprinodontiformes;Rivulidae;Atlantirivulus maricensis;CR
+324;*;Cyprinodontiformes;Rivulidae;Atlantirivulus nudiventris;CR
+325;*;Cyprinodontiformes;Rivulidae;Atlantirivulus simplicis;EN
+326;*;Cyprinodontiformes;Rivulidae;Austrolebias adloffi;EN
+327;*;Cyprinodontiformes;Rivulidae;Austrolebias alexandri;EN
+328;*;Cyprinodontiformes;Rivulidae;Austrolebias arachan;VU
+329;;Cyprinodontiformes;Rivulidae;Austrolebias araucarianus;VU
+330;;Cyprinodontiformes;Rivulidae;Austrolebias bagual;CR
+331;;Cyprinodontiformes;Rivulidae;Austrolebias camaquensis;EN
+332;*;Cyprinodontiformes;Rivulidae;Austrolebias carvalhoi;CR
+333;*;Cyprinodontiformes;Rivulidae;Austrolebias cheradophilus;CR
+334;*;Cyprinodontiformes;Rivulidae;Austrolebias cinereus;CR
+335;*;Cyprinodontiformes;Rivulidae;Austrolebias cyaneus;EN
+336;;Cyprinodontiformes;Rivulidae;Austrolebias ephemerus;EN
+337;*;Cyprinodontiformes;Rivulidae;Austrolebias ibicuiensis;EN
+338;*;Cyprinodontiformes;Rivulidae;Austrolebias jaegari;CR
+339;*;Cyprinodontiformes;Rivulidae;Austrolebias litzi;VU
+340;*;Cyprinodontiformes;Rivulidae;Austrolebias nachtigalli;VU
+341;*;Cyprinodontiformes;Rivulidae;Austrolebias nigrofasciatus;EN
+342;*;Cyprinodontiformes;Rivulidae;Austrolebias paucisquama;VU
+343;;Cyprinodontiformes;Rivulidae;Austrolebias pelotapes;CR
+344;;Cyprinodontiformes;Rivulidae;Austrolebias pongondo;EN
+345;;Cyprinodontiformes;Rivulidae;Austrolebias quirogai;CR
+346;*;Cyprinodontiformes;Rivulidae;Austrolebias univentripinnis;CR
+347;*;Cyprinodontiformes;Rivulidae;Austrolebias varzeae;CR
+348;*;Cyprinodontiformes;Rivulidae;Campellolebiasbrucei;CR
+349;*;Cyprinodontiformes;Rivulidae;Campellolebias chrysolineatus;CR
+350;*;Cyprinodontiformes;Rivulidae;Campellolebiasdorsimaculatus;CR
+351;*;Cyprinodontiformes;Rivulidae;Campellolebiasintermedius;CR
+352;;Cyprinodontiformes;Rivulidae;Cynolebias akroa;VU
+353;;Cyprinodontiformes;Rivulidae;Cynolebias elegans;CR
+354;;Cyprinodontiformes;Rivulidae;Cynolebias gorutuba;EN
+355;*;Cyprinodontiformes;Rivulidae;Cynolebias griseus;EN
+356;*;Cyprinodontiformes;Rivulidae;Cynolebiasleptocephalus;EN
+357;;Cyprinodontiformes;Rivulidae;Cynolebiasparnaibensis;CR
+358;;Cyprinodontiformes;Rivulidae;Cynopoecilusfeltrini;VU
+359;*;Cyprinodontiformes;Rivulidae;Cynopoecilusintimus;VU
+360;*;Cyprinodontiformes;Rivulidae;Hypsolebiasadornatus;CR
+361;*;Cyprinodontiformes;Rivulidae;Hypsolebiasalternatus;EN
+362;*;Cyprinodontiformes;Rivulidae;Hypsolebias auratus;CR
+363;*;Cyprinodontiformes;Rivulidae;Hypsolebias brunoi;VU
+364;*;Cyprinodontiformes;Rivulidae;Hypsolebias carlettoi;EN
+365;;Cyprinodontiformes;Rivulidae;Hypsolebias delucai;VU
+366;;Cyprinodontiformes;Rivulidae;Hypsolebias faouri;VU
+367;*;Cyprinodontiformes;Rivulidae;Hypsolebiasfasciatus;VU
+368;*;Cyprinodontiformes;Rivulidae;Hypsolebiasflammeus;EN
+369;*;Cyprinodontiformes;Rivulidae;Hypsolebiasflavicaudatus;EN
+370;*;Cyprinodontiformes;Rivulidae;Hypsolebiasfulminantis;CR
+371;;Cyprinodontiformes;Rivulidae;Hypsolebiasgardneri;EN
+372;*;Cyprinodontiformes;Rivulidae;Hypsolebiasghisolfii;EN
+373;*;Cyprinodontiformes;Rivulidae;Hypsolebiasgibberatus;VU
+374;;Cyprinodontiformes;Rivulidae;Hypsolebiasgilbertobrasili;CR
+375;*;Cyprinodontiformes;Rivulidae;Hypsolebiasguanambi;VU
+376;;Cyprinodontiformes;Rivulidae;Hypsolebiashamadryades;CR
+377;*;Cyprinodontiformes;Rivulidae;Hypsolebiasharmonicus;VU
+378;*;Cyprinodontiformes;Rivulidae;Hypsolebias hellneri;EN
+379;*;Cyprinodontiformes;Rivulidae;Hypsolebias igneus;EN
+380;*;Cyprinodontiformes;Rivulidae;Hypsolebiasjanaubensis;CR
+381;*;Cyprinodontiformes;Rivulidae;Hypsolebiaslongignatus;VU
+382;*;Cyprinodontiformes;Rivulidae;Hypsolebias lopesi;CR
+383;*;Cyprinodontiformes;Rivulidae;Hypsolebias macaubensis;EN
+384;*;Cyprinodontiformes;Rivulidae;Hypsolebias magnificus;EN
+385;*;Cyprinodontiformes;Rivulidae;Hypsolebias marginatus;CR (PEX)
+386;*;Cyprinodontiformes;Rivulidae;Hypsolebias mediopapillatus;VU
+387;*;Cyprinodontiformes;Rivulidae;Hypsolebias multiradiatus;CR
+388;*;Cyprinodontiformes;Rivulidae;Hypsolebias nielseni;EN
+389;*;Cyprinodontiformes;Rivulidae;Hypsolebias notatus;EN
+390;;Cyprinodontiformes;Rivulidae;Hypsolebiasnudiorbitatus;VU
+391;*;Cyprinodontiformes;Rivulidae;Hypsolebiaspicturatus;EN
+392;;Cyprinodontiformes;Rivulidae;Hypsolebias radiseriatus;EN
+393;*;Cyprinodontiformes;Rivulidae;Hypsolebias rufus;CR
+394;;Cyprinodontiformes;Rivulidae;Hypsolebiasshibattai;VU
+395;;Cyprinodontiformes;Rivulidae;Hypsolebiassplendissimus;VU
+396;*;Cyprinodontiformes;Rivulidae;Hypsolebiasstellatus;EN
+397;*;Cyprinodontiformes;Rivulidae;Hypsolebias tocantinensis;CR
+398;*;Cyprinodontiformes;Rivulidae;Hypsolebias trilineatus;CR
+399;*;Cyprinodontiformes;Rivulidae;Hypsolebias virgulatus;CR
+400;*;Cyprinodontiformes;Rivulidae;Kryptolebias brasiliensis;EN
+401;*;Cyprinodontiformes;Rivulidae;Kryptolebias campelloi;CR
+402;*;Cyprinodontiformes;Rivulidae;Kryptolebias gracilis;CR
+403;*;Cyprinodontiformes;Rivulidae;Leptolebias marmoratus;CR
+404;*;Cyprinodontiformes;Rivulidae;Leptopanchax citrinipinnis;CR
+405;*;Cyprinodontiformes;Rivulidae;Leptopanchaxitanhaensis;CR
+406;*;Cyprinodontiformes;Rivulidae;Leptopanchaxopalescens;CR
+407;*;Cyprinodontiformes;Rivulidae;Leptopanchaxsplendens;CR
+408;*;Cyprinodontiformes;Rivulidae;Maratecoara formosa;VU
+409;*;Cyprinodontiformes;Rivulidae;Maratecoara splendida;VU
+410;*;Cyprinodontiformes;Rivulidae;Melanorivulus crixas;VU
+411;*;Cyprinodontiformes;Rivulidae;Melanorivulus illuminatus;VU
+412;*;Cyprinodontiformes;Rivulidae;Melanorivulus karaja;VU
+413;*;Cyprinodontiformes;Rivulidae;Melanorivulus kayapo;VU
+414;*;Cyprinodontiformes;Rivulidae;Melanorivulus kunzei;VU
+415;*;Cyprinodontiformes;Rivulidae;Melanorivulus pinima;EN
+416;*;Cyprinodontiformes;Rivulidae;Melanorivulus rubromarginatus;VU
+417;*;Cyprinodontiformes;Rivulidae;Melanorivulus rutilicaudus;VU
+418;*;Cyprinodontiformes;Rivulidae;Melanorivulus salmonicaudus;VU
+419;*;Cyprinodontiformes;Rivulidae;Melanorivulus scalaris;EN
+420;*;Cyprinodontiformes;Rivulidae;Melanorivulus ubirajarai;VU
+421;*;Cyprinodontiformes;Rivulidae;Melanorivulus vittatus;EN
+422;*;Cyprinodontiformes;Rivulidae;Moema piriana;CR (PEX)
+423;*;Cyprinodontiformes;Rivulidae;Nematolebias catimbau;CR
+424;*;Cyprinodontiformes;Rivulidae;Nematolebias papilliferus;CR
+425;*;Cyprinodontiformes;Rivulidae;Nematolebias whitei;CR
+426;*;Cyprinodontiformes;Rivulidae;Notholebias cruzi;CR
+427;*;Cyprinodontiformes;Rivulidae;Notholebias fractifasciatus;CR
+428;*;Cyprinodontiformes;Rivulidae;Notholebias minimus;EN
+429;*;Cyprinodontiformes;Rivulidae;Notholebias vermiculatus;CR
+430;*;Cyprinodontiformes;Rivulidae;Ophthalmolebiasbokermanni;CR
+431;*;Cyprinodontiformes;Rivulidae;Ophthalmolebias constanciae;CR
+432;*;Cyprinodontiformes;Rivulidae;Ophthalmolebiasilheusensis;EN
+433;*;Cyprinodontiformes;Rivulidae;Ophthalmolebiasperpendicularis;CR
+434;*;Cyprinodontiformes;Rivulidae;Ophthalmolebias rosaceus;CR
+435;*;Cyprinodontiformes;Rivulidae;Ophthalmolebiassuzarti;VU
+436;*;Cyprinodontiformes;Rivulidae;Pituna brevirostrata;CR
+437;*;Cyprinodontiformes;Rivulidae;Pituna xinguensis;CR
+438;*;Cyprinodontiformes;Rivulidae;Plesiolebias canabravensis;VU
+439;*;Cyprinodontiformes;Rivulidae;Plesiolebias xavantei;EN
+440;*;Cyprinodontiformes;Rivulidae;Simpsonichthysboitonei;CR
+441;*;Cyprinodontiformes;Rivulidae;Simpsonichthys cholopteryx;EN
+442;;Cyprinodontiformes;Rivulidae;Simpsonichthys espinhacensis;EN
+443;*;Cyprinodontiformes;Rivulidae;Simpsonichthysnigromaculatus;VU
+444;*;Cyprinodontiformes;Rivulidae;Simpsonichthysparallelus;EN
+445;*;Cyprinodontiformes;Rivulidae;Simpsonichthyspunctulatus;CR
+446;*;Cyprinodontiformes;Rivulidae;Simpsonichthyssantanae;EN
+447;*;Cyprinodontiformes;Rivulidae;Simpsonichthys zonatus;CR (PEX)
+448;*;Cyprinodontiformes;Rivulidae;Spectrolebias reticulatus;CR
+449;*;Cyprinodontiformes;Rivulidae;Trigonectesstrigabundus;EN
+450;*;Cyprinodontiformes;Rivulidae;Xenurolebias myersi;EN
+451;*;Decapoda;Aeglidae;Aegla brevipalma;CR
+452;*;Decapoda;Aeglidae;Aegla camargoi;EN
+453;*;Decapoda;Aeglidae;Aegla cavernicola;CR
+454;;Decapoda;Aeglidae;Aegla charon;CR
+455;*;Decapoda;Aeglidae;Aegla franca;CR
+456;*;Decapoda;Aeglidae;Aegla inconspicua;VU
+457;*;Decapoda;Aeglidae;Aegla inermis;EN
+458;*;Decapoda;Aeglidae;Aegla itacolomiensis;EN
+459;*;Decapoda;Aeglidae;Aegla leachi;EN
+460;*;Decapoda;Aeglidae;Aegla leptochela;CR
+461;*;Decapoda;Aeglidae;Aegla leptodactyla;VU
+462;*;Decapoda;Aeglidae;Aegla manuinflata;EN
+463;*;Decapoda;Aeglidae;Aegla microphthalma;CR
+464;*;Decapoda;Aeglidae;Aegla oblata;EN
+465;*;Decapoda;Aeglidae;Aegla obstipa;EN
+466;*;Decapoda;Aeglidae;Aegla perobae;CR
+467;*;Decapoda;Aeglidae;Aegla renana;CR
+468;*;Decapoda;Aeglidae;Aegla violacea;EN
+469;*;Decapoda;Gecarcinidae;Cardisoma guanhumi;VU
+470;*;Decapoda;Gecarcinidae;Johngarthia lagostoma;EN
+471;;Diplura;Campodeidae;Oncinocampa trajanoae;CR
+472;*;Elopiformes;Megalopidae;Megalops atlanticus;VU
+473;*;Enteropneusta;Spengelidae;Willeya loya;CR
+474;;Entomobryomorpha;Entomobryidae;Seira arenicola;EN
+475;;Entomobryomorpha;Entomobryidae;Seira mataraquensis;EN
+476;;Entomobryomorpha;Entomobryidae;Seira musarum;VU
+477;;Entomobryomorpha;Entomobryidae;Seirapseudoannulata;EN
+478;;Entomobryomorpha;Isotomidae;Archisotoma catiae;CR
+479;;Entomobryomorpha;Isotomidae;Arlea arenicola;CR
+480;;Entomobryomorpha;Isotomidae;Arlea psammophila;CR
+481;*;Entomobryomorpha;Isotomidae;Isotomiella uai;VU
+482;;Entomobryomorpha;Isotomidae;Isotomodes cariocus;CR
+483;;Entomobryomorpha;Isotomidae;Isotomurus riparius;CR
+484;;Entomobryomorpha;Isotomidae;Paracerura gandarela;VU
+485;;Entomobryomorpha;Isotomidae;Psammisotoma restingae;CR
+486;*;Ephemeroptera;Baetidae;Adebrotus lugoi;VU
+487;;Ephemeroptera;Baetidae;Camelobaetidius juparana;VU
+488;*;Ephemeroptera;Baetidae;Camelobaetidius maranhensis;VU
+489;*;Ephemeroptera;Baetidae;Camelobaetidius spinosus;VU
+490;*;Ephemeroptera;Leptophlebiidae;Hermanella amere;EN
+491;*;Ephemeroptera;Leptophlebiidae;Hermanella nigra;VU
+492;;Ephemeroptera;Leptophlebiidae;Simothraulopsis eurybasis;VU
+493;*;Eunicida;Eunicidae;Eunice sebastiani;EN
+494;*;Eunicida;Onuphidae;Diopatra cuprea;VU
+495;*;Euonychophora;Peripatidae;Epiperipatus adenocryptus;CR
+496;*;Euonychophora;Peripatidae;Epiperipatus diadenoproctus;VU
+497;*;Euonychophora;Peripatidae;Epiperipatus ohausi;EN
+498;*;Euonychophora;Peripatidae;Epiperipatus paurognostus;CR
+499;*;Forcipulatida;Asteriidae;Coscinasterias tenuispina;VU
+500;;Galbuliformes;Bucconidae;Malacoptila minor;VU
+501;*;Galbuliformes;Bucconidae;Monasa morphoeus morphoeus;EN
+502;;Galliformes;Cracidae;Aburria cujubi;VU
+503;*;Galliformes;Cracidae;Aburria jacutinga;EN
+504;*;Galliformes;Cracidae;Crax blumenbachii;EN
+505;*;Galliformes;Cracidae;Crax fasciolata pinima;CR
+506;*;Galliformes;Cracidae;Crax globulosa;EN
+507;*;Galliformes;Cracidae;Ortalis remota;CR
+508;*;Galliformes;Cracidae;Pauxi mitu;EW
+509;*;Galliformes;Cracidae;Penelope jacucaca;VU
+510;*;Galliformes;Cracidae;Penelope pileata;VU
+511;*;Galliformes;Cracidae;Penelope superciliaris alagoensis;CR
+512;*;Galliformes;Odontophoridae;Odontophoruscapueira plumbeicollis;CR
+513;*;Glomeridesmida;Glomerodesmidae;Glomeridesmus spelaeus;EN
+514;*;Gruiformes;Psophiidae;Psophia dextralis;VU
+515;*;Gruiformes;Psophiidae;Psophia interjecta;EN
+516;*;Gruiformes;Psophiidae;Psophia obscura;CR
+517;;Gruiformes;Psophiidae;Psophia viridis;VU
+518;*;Gruiformes;Rallidae;Laterallusspilopterus;EN
+519;;Gruiformes;Rallidae;Laterallus xenopterus;EN
+520;*;Gymnomorpha;Veronicellidae;Phyllocaulis renschi;CR
+521;*;Gymnotiformes;Apteronotidae;Sternarchella curvioperculata;EN
+522;*;Gymnotiformes;Apteronotidae;Sternarchogiton zuanoni;EN
+523;*;Gymnotiformes;Apteronotidae;Sternarchorhynchusbritskii;EN
+524;*;Gymnotiformes;Apteronotidae;Sternarchorhynchuscaboclo;VU
+525;*;Gymnotiformes;Apteronotidae;Sternarchorhynchushiguchii;CR
+526;*;Gymnotiformes;Apteronotidae;Sternarchorhynchusinpai;VU
+527;*;Gymnotiformes;Apteronotidae;Sternarchorhynchusjaimei;CR
+528;*;Gymnotiformes;Apteronotidae;Sternarchorhynchuskokraimoro;EN
+529;*;Gymnotiformes;Apteronotidae;Sternarchorhynchusmareikeae;VU
+530;*;Gymnotiformes;Apteronotidae;Sternarchorhynchusseverii;VU
+531;*;Gymnotiformes;Apteronotidae;Sternarchorhynchusvillasboasi;EN
+532;*;Gymnotiformes;Apteronotidae;Tembeassu marauna;CR
+533;;Gymnotiformes;Sternopygidae;Archolaemus ferreirai;VU
+534;;Gymnotiformes;Sternopygidae;Archolaemus santosi;VU
+535;*;Gymnotiformes;Sternopygidae;Eigenmannia vicentespelaea;VU
+536;*;Haplotaxida;Glossoscolecidae;Fimoscolexsporadochaetus;EN
+537;;Hemiptera;Cixiidae;Ferricixius davidi;CR
+538;;Hemiptera;Kinnaridae;Iuiuia caeca;VU
+539;;Hemiptera;Kinnaridae;Kinnapotiguara troglobia;VU
+540;*;Hexanchiformes;Hexanchidae;Notorynchus cepedianus;CR
+541;*;Hymenoptera;Andrenidae;Arhysosage cactorum;VU
+542;*;Hymenoptera;Apidae;Melipona capixaba;EN
+543;*;Hymenoptera;Apidae;Melipona rufiventris;EN
+544;*;Hymenoptera;Apidae;Melipona scutellaris;EN
+545;*;Hymenoptera;Apidae;Partamona littoralis;EN
+546;*;Hymenoptera;Formicidae;Atta robusta;VU
+547;*;Hymenoptera;Formicidae;Brachymyrmex micromegas;VU
+548;*;Hymenoptera;Formicidae;Diaphoromyrmasofiae;EN
+549;*;Hymenoptera;Formicidae;Dinoponera lucida;EN
+550;*;Hymenoptera;Formicidae;Fulakora cleae;CR
+551;*;Hymenoptera;Formicidae;Gnamptogenys wilsoni;EN
+552;*;Hymenoptera;Formicidae;Monomorium delabiei;VU
+553;*;Hymenoptera;Formicidae;Mycetagroicus urbanus;CR
+554;*;Hymenoptera;Formicidae;Mycetomoellerius atlanticus;VU
+555;*;Hymenoptera;Formicidae;Mycetophylax simplex;VU
+556;*;Hymenoptera;Formicidae;Rhopalothrix plaumanni;EN
+557;;Isopoda;Brasileirinidae;Brasileirinho cavaticus;CR
+558;;Isopoda;Calabozoidae;Pongycarcinia xiphidiourus;EN
+559;;Isopoda;Pudeoniscidae;Iansaoniscus georginae;CR
+560;;Isopoda;Pudeoniscidae;Iansaoniscus iraquara;CR
+561;;Isopoda;Scleropactidae;Amazoniscus leistikowi;CR
+562;;Isopoda;Scleropactidae;Circoniscus buckupi;CR
+563;;Isopoda;Scleropactidae;Circoniscus carajasensis;EN
+564;;Isopoda;Styloniscidae;Iuiuniscus iuiuensis;VU
+565;;Isopoda;Styloniscidae;Spelunconiscus castroi;CR
+566;;Isopoda;Styloniscidae;Xangoniscus aganju;EN
+567;;Isopoda;Styloniscidae;Xangoniscus itacarambiensis;CR
+568;;Isopoda;Styloniscidae;Xangoniscus odara;EN
+569;;Lamniformes;Lamnidae;Isurus oxyrinchus;CR
+570;*;Lamniformes;Alopiidae;Alopias superciliosus;EN
+571;*;Lamniformes;Alopiidae;Alopias vulpinus;CR
+572;*;Lamniformes;Cetorhinidae;Cetorhinus maximus;CR
+573;*;Lamniformes;Lamnidae;Carcharodon carcharias;VU
+574;*;Lamniformes;Odontaspididae;Carcharias taurus;CR
+575;*;Lepidoptera;Crambidae;Parapoynx restingalis;VU
+576;*;Lepidoptera;Hesperiidae;Drephalys miersi;EN
+577;*;Lepidoptera;Hesperiidae;Drephalys mourei;CR
+578;*;Lepidoptera;Hesperiidae;Olafia roscius iphimedia;VU
+579;*;Lepidoptera;Hesperiidae;Parelbella polyzona;EN
+580;*;Lepidoptera;Hesperiidae;Pseudocroniades machaon seabrai;CR
+581;*;Lepidoptera;Hesperiidae;Turmosa camposa;EN
+582;*;Lepidoptera;Hesperiidae;Zonia zonia diabo;EN
+583;*;Lepidoptera;Lycaenidae;Arawacus aethesa;EN
+584;*;Lepidoptera;Lycaenidae;Magnastigma julia;EN
+585;*;Lepidoptera;Lycaenidae;Strymon ohausi;EN
+586;*;Lepidoptera;Nymphalidae;Actinote quadra;VU
+587;*;Lepidoptera;Nymphalidae;Actinote zikani;CR
+588;;Lepidoptera;Nymphalidae;Adelpha atlantica;EN
+589;*;Lepidoptera;Nymphalidae;Dasyophthalmia geraensis;CR
+590;*;Lepidoptera;Nymphalidae;Dasyophthalma rusina delanira;EN
+591;*;Lepidoptera;Nymphalidae;Dasyophthalma vertebralis;CR (PEX)
+592;*;Lepidoptera;Nymphalidae;Doxocopa zalmunna;CR (PEX)
+593;*;Lepidoptera;Nymphalidae;Episcada vitrea;EN
+594;*;Lepidoptera;Nymphalidae;Eresia erysice erysice;CR
+595;*;Lepidoptera;Nymphalidae;Euptychia boulleti;CR
+596;;Lepidoptera;Nymphalidae;Forsterinariaitatiaia;VU
+597;*;Lepidoptera;Nymphalidae;Hamadryas velutina browni;EN
+598;*;Lepidoptera;Nymphalidae;Heliconius nattereri;EN
+599;*;Lepidoptera;Nymphalidae;Hyalyris fiammetta;CR (PEX)
+600;*;Lepidoptera;Nymphalidae;Mcclungia cymo fallens;CR
+601;*;Lepidoptera;Nymphalidae;Melinaea mnasias thera;CR
+602;*;Lepidoptera;Nymphalidae;Morpho epistrophus nikolajewna;CR
+603;*;Lepidoptera;Nymphalidae;Morpho menelaus eberti;CR
+604;*;Lepidoptera;Nymphalidae;Napeogenes rhezia rhezia;CR
+605;*;Lepidoptera;Nymphalidae;Orobrassolisornamentalis;CR
+606;*;Lepidoptera;Nymphalidae;Pampasatyrusglaucope boenninghauseni;EN
+607;;Lepidoptera;Nymphalidae;Pampasatyrus glaucope eberti;VU
+608;*;Lepidoptera;Nymphalidae;Pampasatyrus glaucope glaucope;EN
+609;*;Lepidoptera;Nymphalidae;Pampasatyrus gyrtone;EN
+610;;Lepidoptera;Nymphalidae;Pampasatyrus reticulata gagarini;EN
+611;*;Lepidoptera;Nymphalidae;Paulogramma hydarnis;EN
+612;*;Lepidoptera;Nymphalidae;Polygrapha suprema;EN
+613;;Lepidoptera;Nymphalidae;Praepedaliodes sequeirae;CR
+614;*;Lepidoptera;Nymphalidae;Prepona deiphile;VU
+615;*;Lepidoptera;Nymphalidae;Scada karschina delicata;CR
+616;*;Lepidoptera;Nymphalidae;Tithorea harmonia caissara;VU
+617;;Lepidoptera;Nymphalidae;Yphthimoides iserhardi;EN
+618;*;Lepidoptera;Papilionidae;Heraclides himeros baia;EN
+619;*;Lepidoptera;Papilionidae;Heraclides himeros himeros;EN
+620;*;Lepidoptera;Papilionidae;Mimoides lysithous harrisianus;CR
+621;*;Lepidoptera;Papilionidae;Mimoides lysithous sebastianus;VU
+622;*;Lepidoptera;Papilionidae;Parides ascanius;EN
+623;*;Lepidoptera;Papilionidae;Parides bunichus chamissonia;CR
+624;*;Lepidoptera;Papilionidae;Parides burchellanus;CR
+625;*;Lepidoptera;Papilionidae;Parides klagesi;CR
+626;*;Lepidoptera;Papilionidae;Parides panthonus castilhoi;CR
+627;*;Lepidoptera;Papilionidae;Parides tros danunciae;EN
+628;*;Lepidoptera;Pieridae;Charonias theano;EN
+629;*;Lepidoptera;Pieridae;Cunizza hirlanda fulvinota;VU
+630;*;Lepidoptera;Pieridae;Cunizza hirlanda planasia;VU
+631;*;Lepidoptera;Pieridae;Glennia pylotis;EN
+632;*;Lepidoptera;Pieridae;Moschoneura pinthous methymna;VU
+633;*;Lepidoptera;Pieridae;Perrhybris pamela flava;EN
+634;*;Lepidoptera;Riodinidae;Joiceya praeclarus;CR
+635;*;Lepidoptera;Riodinidae;Panara ovifera;VU
+636;*;Lepidoptera;Riodinidae;Petrocerus catiena;EN
+637;*;Lepidoptera;Riodinidae;Rhetus belphegor;CR
+638;*;Lepidoptera;Riodinidae;Voltinia sanarita;EN
+639;*;Lepidoptera;Saturniidae;Dirphia monticola;VU
+640;*;Lepidoptera;Sphingidae;Nyceryx mielkei;CR
+641;*;Littorinimorpha;Pomatiopsidae;Spiripockiapunctata;CR
+642;*;Littorinimorpha;Strombidae;Eustrombus goliath;VU
+643;*;Littorinimorpha;Strombidae;Lobatus costatus;VU
+644;*;Littorinimorpha;Vermetidae;Petaloconchus myrakeenae;VU
+645;*;Nyctibiiformes;Nyctibiidae;Nyctibius aethereus aethereus;EN
+646;*;Nyctibiiformes;Nyctibiidae;Nyctibius leucopterus;CR
+647;*;Odonata;Aeshnidae;Castoraeschna januaria;VU
+648;*;Odonata;Aeshnidae;Rhionaeschna eduardoi;EN
+649;*;Odonata;Coenagrionidae;Homeoura lindneri;VU
+650;*;Odonata;Coenagrionidae;Leptagrion acutum;CR
+651;*;Odonata;Coenagrionidae;Leptagrion bocainense;VU
+652;*;Odonata;Coenagrionidae;Leptagrion capixabae;VU
+653;*;Odonata;Coenagrionidae;Leptagrion porrectum;EN
+654;*;Odonata;Coenagrionidae;Leptagrion vriesianum;VU
+655;*;Odonata;Gomphidae;Phyllocycla bartica;VU
+656;*;Odonata;Libellulidae;Elasmothemis schubarti;EN
+657;*;Odonata;Libellulidae;Macrothemis tessellata;VU
+658;*;Odonata;Libellulidae;Micrathyria borgmeieri;VU
+659;*;Odonata;Libellulidae;Micrathyria divergens;VU
+660;*;Odonata;Megapodagrionidae;Heteragrion petiense;EN
+661;*;Odonata;Pseudostigmatidae;Mecistogaster pronoti;CR (PEX)
+662;*;Ophidiiformes;Ophidiidae;Ophidion holbrookii;CR
+663;;Ophidiiformes;Ophidiidae;Otophidium chickcharney;CR (PEX)
+664;*;Opiliones;Cryptogeobiidae;Spinopilar moria;CR
+665;*;Opiliones;Escadabiidae;Spaeleoleptesspaeleus;EN
+666;;Opiliones;Gerdesiidae;Gonycranaus pluto;VU
+667;;Opiliones;Gonyleptidae;Discocyrtuspedrosoi;VU
+668;*;Opiliones;Gonyleptidae;Eusarcus elinae;EN
+669;*;Opiliones;Gonyleptidae;Giupponia chagasi;EN
+670;*;Opiliones;Gonyleptidae;Iandumoema setimapocu;VU
+671;;Opiliones;Gonyleptidae;Iandumoema smeagol;EN
+672;*;Opiliones;Gonyleptidae;Iandumoema uai;CR
+673;*;Opiliones;Gonyleptidae;Pachylospeleus strinatii;CR
+674;;Opiliones;Kimulidae;Relictopiolus galadriel;CR
+675;*;Orectolobiformes;Ginglymostomatidae;Ginglymostoma cirratum;VU
+676;*;Orectolobiformes;Rhincodontidae;Rhincodon typus;VU
+677;;Orthoptera;Phalangopsidae;Endecous apterus;EN
+678;;Orthoptera;Phalangopsidae;Endecousperuassuensis;EN
+679;*;Ostreoida;Pectinidae;Euvola ziczac;EN
+680;;Palpigradi;Eukoeneniidae;Eukoenenia cavatica;CR
+681;;Palpigradi;Eukoeneniidae;Eukoenenia eywa;EN
+682;;Palpigradi;Eukoeneniidae;Eukoeneniajequitinhonha;CR
+683;*;Palpigradi;Eukoeneniidae;Eukoenenia maquinensis;VU
+684;;Palpigradi;Eukoeneniidae;Eukoenenia navi;CR
+685;;Palpigradi;Eukoeneniidae;Eukoenenia neytiri;EN
+686;*;Palpigradi;Eukoeneniidae;Eukoenenia potiguar;VU
+687;*;Palpigradi;Eukoeneniidae;Eukoenenia sagarana;CR
+688;*;Palpigradi;Eukoeneniidae;Eukoenenia spelunca;CR
+689;*;Palpigradi;Eukoeneniidae;Eukoenenia virgemdalapa;CR
+690;*;Palpigradi;Eukoeneniidae;Leptokoeneniapelada;CR
+691;*;Palpigradi;Eukoeneniidae;Leptokoenenia thalassophobica;EN
+692;*;Passeriformes;Furnariidae;Cichlocolaptes mazarbarnetti;EX
+693;*;Passeriformes;Furnariidae;Philydor novaesi;EX
+694;*;Passeriformes;Icteridae;Leistes defilippii;RE
+695;;Passeriformes;Cardinalidae;Granatellus pelzelni paraensis;VU
+696;*;Passeriformes;Conopophagidae;Conopophaga cearae;EN
+697;*;Passeriformes;Conopophagidae;Conopophaga lineata lineata;VU
+698;*;Passeriformes;Corvidae;Cyanocorax hafferi;VU
+699;*;Passeriformes;Cotingidae;Cotinga maculata;EN
+700;*;Passeriformes;Cotingidae;Lipaugus conditus;VU
+701;*;Passeriformes;Cotingidae;Procnias albus wallacei;VU
+702;*;Passeriformes;Cotingidae;Xipholena atropurpurea;VU
+703;;Passeriformes;Cotingidae;Xipholena lamellipennis;VU
+704;*;Passeriformes;Dendrocolaptidae;Campylorhamphus cardosoi;VU
+705;*;Passeriformes;Dendrocolaptidae;Campylorhamphusmultostriatus;VU
+706;*;Passeriformes;Dendrocolaptidae;Campylorhamphus trochilirostris trochilirostris;VU
+707;*;Passeriformes;Dendrocolaptidae;Dendrexetastes rufigula paraensis;VU
+708;*;Passeriformes;Dendrocolaptidae;Dendrocincla merula badia;VU
+709;*;Passeriformes;Dendrocolaptidae;Dendrocincla taunayi;EN
+710;*;Passeriformes;Dendrocolaptidae;Dendrocolaptes medius;VU
+711;*;Passeriformes;Dendrocolaptidae;Dendrocolaptes retentus;VU
+712;*;Passeriformes;Dendrocolaptidae;Dendrocolaptes transfasciatus;VU
+713;*;Passeriformes;Dendrocolaptidae;Hylexetastes brigidai;VU
+714;;Passeriformes;Dendrocolaptidae;Hylexetastes uniformis;VU
+715;*;Passeriformes;Dendrocolaptidae;Xiphocolaptes carajaensis;VU
+716;*;Passeriformes;Dendrocolaptidae;Xiphocolaptes falcirostris;VU
+717;*;Passeriformes;Dendrocolaptidae;Xiphocolaptes falcirostris;VU
+718;*;Passeriformes;Dendrocolaptidae;Xiphocolaptes falcirostris;VU
+719;*;Passeriformes;Dendrocolaptidae;Xiphorhynchusatlanticus;VU
+720;*;Passeriformes;Dendrocolaptidae;Xiphorhynchusguttatoidesgracilirostris;EN
+721;*;Passeriformes;Formicariidae;Chamaeza nobilis fulvipectus;VU
+722;*;Passeriformes;Fringillidae;Spinus yarrellii;VU
+723;*;Passeriformes;Furnariidae;Acrobatornis fonsecai;VU
+724;;Passeriformes;Furnariidae;Anabazenops dorsalis;VU
+725;*;Passeriformes;Furnariidae;Asthenes hudsoni;VU
+726;;Passeriformes;Furnariidae;Asthenes luizae;EN
+727;*;Passeriformes;Furnariidae;Automolus lammi;EN
+728;*;Passeriformes;Furnariidae;Cinclodes espinhacensis;EN
+729;*;Passeriformes;Furnariidae;Coryphistera alaudina;CR
+730;*;Passeriformes;Furnariidae;Coryphistera alaudina;CR
+731;*;Passeriformes;Furnariidae;Coryphistera alaudina;CR
+732;*;Passeriformes;Furnariidae;Leptasthenura platensis;CR
+733;*;Passeriformes;Furnariidae;Pseudoseisura lophotes;VU
+734;*;Passeriformes;Furnariidae;Synallaxis infuscata;EN
+735;*;Passeriformes;Furnariidae;Synallaxis kollari;VU
+736;;Passeriformes;Furnariidae;Syndactyla ucayalae;VU
+737;*;Passeriformes;Furnariidae;Thripophaga macroura;VU
+738;*;Passeriformes;Grallariidae;Grallaria varia distincta;VU
+739;*;Passeriformes;Grallariidae;Grallaria varia intercedens;EN
+740;*;Passeriformes;Grallariidae;Hylopezus paraensis;VU
+741;;Passeriformes;Grallariidae;Hylopezus whittakeri;VU
+742;*;Passeriformes;Icteridae;Anumara forbesi;VU
+743;;Passeriformes;Icteridae;Cacicus koepckeae;VU
+744;*;Passeriformes;Icteridae;Xanthopsar flavus;VU
+745;*;Passeriformes;Motacillidae;Anthus nattereri;VU
+746;;Passeriformes;Onychorhynchidae;Onychorhynchusswainsoni;VU
+747;;Passeriformes;Oxyruncidae;Oxyruncus cristatus tocantinsi;VU
+748;*;Passeriformes;Passerellidae;Arremonops conirostris;EN
+749;*;Passeriformes;Pipridae;Antilophia bokermanni;CR
+750;*;Passeriformes;Pipridae;Lepidothrix iris;EN
+751;*;Passeriformes;Pipridae;Lepidothrix iris iris;EN
+752;*;Passeriformes;Pipridae;Lepidothrix vilasboasi;EN
+753;*;Passeriformes;Pipridae;Neopelma aurifrons;EN
+754;*;Passeriformes;Platyrinchidae;Calyptura cristata;CR (PEX)
+755;;Passeriformes;Platyrinchidae;Platyrinchus leucoryphus;VU
+756;*;Passeriformes;Platyrinchidae;Platyrinchus mystaceus niveigularis;VU
+757;*;Passeriformes;Rhinocryptidae;Eleoscytalopus psychopompus;EN
+758;*;Passeriformes;Rhinocryptidae;Merulaxis stresemanni;CR
+759;*;Passeriformes;Rhinocryptidae;Scytalopus diamantinensis;EN
+760;*;Passeriformes;Rhinocryptidae;Scytalopus gonzagai;EN
+761;*;Passeriformes;Rhinocryptidae;Scytalopus iraiensis;EN
+762;*;Passeriformes;Rhinocryptidae;Scytalopus novacapitalis;EN
+763;;Passeriformes;Rhynchocyclidae;Cnipodectessuperrufus;VU
+764;*;Passeriformes;Rhynchocyclidae;Hemitriccus kaempferi;VU
+765;*;Passeriformes;Rhynchocyclidae;Hemitriccus mirandae;EN
+766;*;Passeriformes;Rhynchocyclidae;Phylloscartes beckeri;EN
+767;*;Passeriformes;Rhynchocyclidae;Phylloscartes ceciliae;CR
+768;*;Passeriformes;Rhynchocyclidae;Phylloscartes roquettei;EN
+769;;Passeriformes;Rhynchocyclidae;Poecilotriccus albifacies;VU
+770;*;Passeriformes;Scleruridae;Geositta poeciloptera;VU
+771;*;Passeriformes;Scleruridae;Sclerurus caudacutus caligineus;CR
+772;*;Passeriformes;Scleruridae;Sclerurus caudacutus umbretta;CR
+773;*;Passeriformes;Scleruridae;Sclerurus cearensis;EN
+774;*;Passeriformes;Scleruridae;Sclerurus macconnelli bahiae;EN
+775;;Passeriformes;Thamnophilidae;Clytoctantes atrogularis;VU
+776;*;Passeriformes;Thamnophilidae;Dysithamnus plumbeus;EN
+777;;Passeriformes;Thamnophilidae;Epinecrophylladentei;VU
+778;*;Passeriformes;Thamnophilidae;Formicivoraacutirostris;VU
+779;*;Passeriformes;Thamnophilidae;Formicivora erythronotos;CR
+780;*;Passeriformes;Thamnophilidae;Formicivora grantsaui;EN
+781;*;Passeriformes;Thamnophilidae;Formicivora littoralis;EN
+782;*;Passeriformes;Thamnophilidae;Formicivorapaludicola;CR
+783;;Passeriformes;Thamnophilidae;Hypocnemishypoxanthaochraceiventris;VU
+784;*;Passeriformes;Thamnophilidae;Hypocnemis ochrogyna;VU
+785;;Passeriformes;Thamnophilidae;Hypocnemis striata;VU
+786;*;Passeriformes;Thamnophilidae;Myrmoderus ruficauda;EN
+787;*;Passeriformes;Thamnophilidae;Myrmotherula fluminensis;CR (PEX)
+788;*;Passeriformes;Thamnophilidae;Myrmotherula minor;VU
+789;;Passeriformes;Thamnophilidae;Myrmotherula oreni;VU
+790;*;Passeriformes;Thamnophilidae;Myrmotherula snowi;CR
+791;*;Passeriformes;Thamnophilidae;Myrmotherula urosticta;VU
+792;;Passeriformes;Thamnophilidae;Phlegopsis borbae;VU
+793;*;Passeriformes;Thamnophilidae;Phlegopsis nigromaculata confinis;VU
+794;*;Passeriformes;Thamnophilidae;Phlegopsis nigromaculata paraensis;VU
+795;*;Passeriformes;Thamnophilidae;Pyriglena atra;EN
+796;*;Passeriformes;Thamnophilidae;Pyriglena pernambucensis;VU
+797;*;Passeriformes;Thamnophilidae;Rhegmatorhina gymnops;VU
+798;;Passeriformes;Thamnophilidae;Rhegmatorhina hoffmannsi;VU
+799;*;Passeriformes;Thamnophilidae;Rhopornis ardesiacus;EN
+800;*;Passeriformes;Thamnophilidae;Terenura sicki;CR
+801;*;Passeriformes;Thamnophilidae;Thamnomanes caesius caesius;VU
+802;*;Passeriformes;Thamnophilidae;Thamnophilusaethiops distans;EN
+803;*;Passeriformes;Thamnophilidae;Thamnophilus caerulescens cearensis;VU
+804;*;Passeriformes;Thamnophilidae;Thamnophiluscaerulescens pernambucensis;VU
+805;;Passeriformes;Thamnophilidae;Thamnophilusnigrocinereus huberi;VU
+806;*;Passeriformes;Thamnophilidae;Thamnophilusnigrocinereus tschudii;EN
+807;*;Passeriformes;Thraupidae;Conothraupis mesoleuca;EN
+808;*;Passeriformes;Thraupidae;Coryphaspiza melanotis;VU
+809;*;Passeriformes;Thraupidae;Gubernatrix cristata;CR
+810;*;Passeriformes;Thraupidae;Nemosia rourei;CR
+811;*;Passeriformes;Thraupidae;Sporophila beltoni;VU
+812;*;Passeriformes;Thraupidae;Sporophila falcirostris;VU
+813;*;Passeriformes;Thraupidae;Sporophila frontalis;VU
+814;*;Passeriformes;Thraupidae;Sporophila hypoxantha;VU
+815;*;Passeriformes;Thraupidae;Sporophila maximiliani;CR
+816;*;Passeriformes;Thraupidae;Sporophila melanogaster;VU
+817;*;Passeriformes;Thraupidae;Sporophila nigrorufa;VU
+818;*;Passeriformes;Thraupidae;Sporophila palustris;VU
+819;*;Passeriformes;Thraupidae;Sporophila ruficollis;VU
+820;*;Passeriformes;Thraupidae;Tangara cyanocephala cearensis;VU
+821;*;Passeriformes;Thraupidae;Tangara fastuosa;VU
+822;*;Passeriformes;Thraupidae;Tangara velia signata;VU
+823;*;Passeriformes;Tityridae;Iodopleura pipra;EN
+824;*;Passeriformes;Tityridae;Iodopleura pipra leucopygia;EN
+825;*;Passeriformes;Tityridae;Iodopleura pipra pipra;EN
+826;;Passeriformes;Tityridae;Laniisoma elegans;EN
+827;*;Passeriformes;Tityridae;Schiffornis turdina intermedia;VU
+828;;Passeriformes;Troglodytidae;Cyphorhinusgriseolateralis;VU
+829;*;Passeriformes;Turdidae;Cichlopsis leucogenys;EN
+830;*;Passeriformes;Turdidae;Cichlopsis leucogenys;EN
+831;*;Passeriformes;Turdidae;Cichlopsis leucogenys;EN
+832;*;Passeriformes;Turdidae;Cichlopsis leucogenys;EN
+833;*;Passeriformes;Turdidae;Cichlopsis leucogenys;EN
+834;*;Passeriformes;Tyrannidae;Alectrurus tricolor;VU
+835;*;Passeriformes;Tyrannidae;Attila spadiceus uropygiatus;EN
+836;;Passeriformes;Tyrannidae;Contopus nigrescens;VU
+837;*;Passeriformes;Tyrannidae;Elaenia ridleyana;VU
+838;;Passeriformes;Tyrannidae;Knipolegus franciscanus;VU
+839;;Passeriformes;Tyrannidae;Phyllomyias reiseri;EN
+840;*;Passeriformes;Tyrannidae;Serpophaga hypoleuca pallida;VU
+841;*;Passeriformes;Tyrannidae;Stigmatura napensis napensis;VU
+842;*;Passeriformes;Tyrannidae;Xolmis dominicanus;VU
+843;*;Passeriformes;Vireonidae;Vireo gracilirostris;VU
+844;*;Passeriformes;Xenopidae;Xenops minutus alagoanus;VU
+845;*;Paxillosida;Astropectinidae;Astropecten articulatus;VU
+846;*;Paxillosida;Astropectinidae;Astropecten brasiliensis;VU
+847;*;Paxillosida;Astropectinidae;Astropecten marginatus;VU
+848;*;Paxillosida;Luidiidae;Luidia senegalensis;VU
+849;*;Pelecaniformes;Ardeidae;Tigrisoma fasciatum;VU
+850;*;Perciformes;Chaetodontidae;Prognathodes obliquus;VU
+851;*;Perciformes;Cichlidae;Crenicichla cyclostoma;CR
+852;*;Perciformes;Cichlidae;Crenicichla empheres;VU
+853;*;Perciformes;Cichlidae;Crenicichlahadrostigma;VU
+854;*;Perciformes;Cichlidae;Crenicichla heckeli;VU
+855;*;Perciformes;Cichlidae;Crenicichla jegui;EN
+856;*;Perciformes;Cichlidae;Crenicichlajupiaensis;EN
+857;*;Perciformes;Cichlidae;Crenicichla urosema;EN
+858;*;Perciformes;Cichlidae;Teleocichla centisquama;EN
+859;*;Perciformes;Cichlidae;Teleocichla cinderella;EN
+860;*;Perciformes;Cichlidae;Teleocichlaprionogenys;VU
+861;*;Perciformes;Cichlidae;Teleocichla wajapi;EN
+862;*;Perciformes;Epinephelidae;Epinephelus itajara;CR
+863;*;Perciformes;Epinephelidae;Epinephelus marginatus;VU
+864;*;Perciformes;Epinephelidae;Epinephelus morio;VU
+865;*;Perciformes;Gobiidae;Elacatinus figaro;VU
+866;*;Perciformes;Istiophoridae;Kajikia albida;VU
+867;*;Perciformes;Istiophoridae;Makaira nigricans;EN
+868;*;Perciformes;Labridae;Halichoeres rubrovirens;VU
+869;*;Perciformes;Labrisomidae;Malacoctenus brunoi;VU
+870;*;Perciformes;Lutjanidae;Lutjanus cyanopterus;VU
+871;*;Perciformes;Lutjanidae;Lutjanus purpureus;VU
+872;*;Perciformes;Malacanthidae;Lopholatilus villarii;VU
+873;*;Perciformes;Microdesmidae;Cerdale fasciata;EN
+874;*;Perciformes;Polyprionidae;Polyprion americanus;CR
+875;*;Perciformes;Pomacentridae;Microspathodon chrysurus;VU
+876;*;Perciformes;Pomacentridae;Stegastes rocasensis;VU
+877;*;Perciformes;Pomacentridae;Stegastessanctipauli;VU
+878;*;Perciformes;Pomacentridae;Stegastes trindadensis;VU
+879;*;Perciformes;Scaridae;Scarus trispinosus;EN
+880;*;Perciformes;Scaridae;Scarus zelindae;VU
+881;*;Perciformes;Scaridae;Sparisoma axillare;VU
+882;*;Perciformes;Scaridae;Sparisoma frondosum;VU
+883;*;Perciformes;Scaridae;Sparisoma rocha;VU
+884;*;Perciformes;Sciaenidae;Pogonias cromis;EN
+885;*;Perciformes;Scombridae;Thunnus thynnus;EN
+886;*;Perciformes;Serranidae;Choranthiassalmopunctatus;VU
+887;*;Perciformes;Serranidae;Hyporthodusnigritus;EN
+888;*;Perciformes;Serranidae;Hyporthodusniveatus;VU
+889;*;Perciformes;Serranidae;Mycteroperca bonaci;VU
+890;*;Perciformes;Serranidae;Mycteroperca interstitialis;VU
+891;*;Perciformes;Tripterygiidae;Enneanectes smithi;VU
+892;*;Perissodactyla;Tapiridae;Tapirus terrestris;VU
+893;*;Phaethontiformes;Phaethontidae;Phaethon aethereus;EN
+894;*;Phaethontiformes;Phaethontidae;Phaethon lepturus;EN
+895;*;Piciformes;Capitonidae;Capito dayi;VU
+896;*;Piciformes;Picidae;Celeus flavus subflavus;CR
+897;*;Piciformes;Picidae;Celeus galeatus;EN
+898;*;Piciformes;Picidae;Celeus obrieni;VU
+899;*;Piciformes;Picidae;Celeus torquatus pieteroyensi;VU
+900;*;Piciformes;Picidae;Celeus torquatus tinnunculus;EN
+901;*;Piciformes;Picidae;Piculus paraensis;VU
+902;*;Piciformes;Picidae;Piculus polyzonus;EN
+903;*;Piciformes;Ramphastidae;Pteroglossus bitorquatus bitorquatus;VU
+904;*;Piciformes;Ramphastidae;Selenideragouldii baturitensis;EN
+905;*;Pilosa;Bradypodidae;Bradypus torquatus;VU
+906;*;Pilosa;Myrmecophagidae;Myrmecophaga tridactyla;VU
+907;*;Pleuronectiformes;Achiridae;Achirus mucuri;VU
+908;;Poduromorpha;Brachystomellidae;Maricaella duna;CR
+909;*;Poduromorpha;Hypogastruridae;Acherontides eleonorae;VU
+910;;Poduromorpha;Neanuridae;Aethiopella littoralis;CR
+911;;Poduromorpha;Neanuridae;Arlesia intermedia;CR
+912;;Poduromorpha;Neanuridae;Hyleanura mendoncae;VU
+913;;Poduromorpha;Neanuridae;Micranurida fluminensis;CR
+914;;Poduromorpha;Onychiuridae;Agraphorura mariapetrae;CR
+915;;Poduromorpha;Tullbergiidae;Mesaphorura maricaensis;CR
+916;*;Poecilosclerida;Latrunculiidae;Latrunculiajaneirensis;VU
+917;*;Polydesmida;Chelodesmidae;Dioplosternus salvatrix;VU
+918;*;Polydesmida;Chelodesmidae;Leodesmus yporangae;EN
+919;*;Polydesmida;Chelodesmidae;Odontopeltis giganteus;VU
+920;*;Polydesmida;Chelodesmidae;Sandalodesmus stramineus;VU
+921;*;Polydesmida;Cryptodesmidae;Peridontodesmella alba;VU
+922;;Polydesmida;Dobrodesmidae;Dobrodesmus mirabilis;CR
+923;*;Primates;Atelidae;Alouatta belzebul;VU
+924;*;Primates;Atelidae;Alouatta discolor;VU
+925;*;Primates;Atelidae;Alouatta guariba clamitans;VU
+926;*;Primates;Atelidae;Alouatta guariba guariba;CR
+927;*;Primates;Atelidae;Alouatta ululata;EN
+928;*;Primates;Atelidae;Ateles belzebuth;VU
+929;*;Primates;Atelidae;Ateles chamek;VU
+930;*;Primates;Atelidae;Ateles marginatus;EN
+931;*;Primates;Atelidae;Brachyteles arachnoides;EN
+932;*;Primates;Atelidae;Brachyteles hypoxanthus;CR
+933;*;Primates;Atelidae;Lagothrix lagothricha cana;EN
+934;*;Primates;Atelidae;Lagothrixlagothrichalagothricha;VU
+935;*;Primates;Atelidae;Lagothrixlagothricha poeppigii;VU
+936;*;Primates;Callitrichidae;Callithrix aurita;EN
+937;*;Primates;Callitrichidae;Callithrix flaviceps;EN
+938;*;Primates;Callitrichidae;Leontopithecus caissara;EN
+939;*;Primates;Callitrichidae;Leontopithecus chrysomelas;EN
+940;*;Primates;Callitrichidae;Leontopithecus chrysopygus;EN
+941;*;Primates;Callitrichidae;Leontopithecus rosalia;EN
+942;*;Primates;Callitrichidae;Mico rondoni;VU
+943;*;Primates;Callitrichidae;Saguinus bicolor;CR
+944;*;Primates;Callitrichidae;Saguinus niger;VU
+945;*;Primates;Cebidae;Cebus kaapori;CR
+946;*;Primates;Cebidae;Saimiri vanzolinii;VU
+947;*;Primates;Cebidae;Sapajus cay;VU
+948;*;Primates;Cebidae;Sapajus flavius;EN
+949;*;Primates;Cebidae;Sapajus robustus;EN
+950;*;Primates;Cebidae;Sapajus xanthosternos;EN
+951;*;Primates;Pitheciidae;Cacajao hosomi;EN
+952;*;Primates;Pitheciidae;Callicebus barbarabrownae;CR
+953;*;Primates;Pitheciidae;Callicebus coimbrai;EN
+954;*;Primates;Pitheciidae;Callicebus melanochir;VU
+955;*;Primates;Pitheciidae;Callicebus personatus;VU
+956;*;Primates;Pitheciidae;Callicebus personatus;VU
+957;*;Primates;Pitheciidae;Chiropotes satanas;CR
+958;*;Primates;Pitheciidae;Chiropotes utahickae;VU
+959;*;Pristiformes;Pristidae;Pristis pectinata;CR (PEX)
+960;*;Pristiformes;Pristidae;Pristis pristis;CR
+961;*;Procellariiformes;Diomedeidae;Diomedea dabbenena;CR
+962;*;Procellariiformes;Diomedeidae;Diomedea epomophora;VU
+963;*;Procellariiformes;Diomedeidae;Diomedea exulans;CR
+964;*;Procellariiformes;Diomedeidae;Diomedea sanfordi;EN
+965;*;Procellariiformes;Diomedeidae;Thalassarche chlororhynchos;EN
+966;*;Procellariiformes;Procellariidae;Procellaria aequinoctialis;VU
+967;*;Procellariiformes;Procellariidae;Procellaria conspicillata;VU
+968;*;Procellariiformes;Procellariidae;Pterodroma arminjoniana;CR
+969;*;Procellariiformes;Procellariidae;Pterodroma deserta;VU
+970;*;Procellariiformes;Procellariidae;Pterodroma incerta;EN
+971;*;Procellariiformes;Procellariidae;Pterodroma madeira;EN
+972;*;Procellariiformes;Procellariidae;Puffinus lherminieri;CR
+973;*;Pseudoscorpiones;Bochicidae;Spelaeobochica allodentatus;EN
+974;*;Pseudoscorpiones;Bochicidae;Spelaeobochica iuiu;EN
+975;*;Pseudoscorpiones;Bochicidae;Spelaeobochica muchmorei;CR
+976;*;Pseudoscorpiones;Chernetidae;Maxchernes iporangae;CR
+977;*;Pseudoscorpiones;Chernetidae;Spelaeochernes gracilipalpus;EN
+978;*;Pseudoscorpiones;Chthoniidae;Pseudochthonius biseriatus;EN
+979;*;Pseudoscorpiones;Ideoroncidae;Ideoroncus cavicola;EN
+980;*;Pseudoscorpiones;Olpiidae;Progarypus nigrimanus;CR
+981;*;Psittaciformes;Psittacidae;Anodorhynchus glaucus;RE
+982;*;Psittaciformes;Psittacidae;Amazona pretrei;VU
+983;*;Psittaciformes;Psittacidae;Amazona rhodocorytha;VU
+984;*;Psittaciformes;Psittacidae;Amazona vinacea;VU
+985;*;Psittaciformes;Psittacidae;Anodorhynchus leari;EN
+986;*;Psittaciformes;Psittacidae;Aratinga solstitialis;EN
+987;*;Psittaciformes;Psittacidae;Cyanopsitta spixii;CR
+988;*;Psittaciformes;Psittacidae;Guaruba guarouba;VU
+989;*;Psittaciformes;Psittacidae;Pionus reichenowi;VU
+990;*;Psittaciformes;Psittacidae;Pyrilia vulturina;VU
+991;;Psittaciformes;Psittacidae;Pyrrhura amazonum;VU
+992;;Psittaciformes;Psittacidae;Pyrrhura anerythra;VU
+993;*;Psittaciformes;Psittacidae;Pyrrhura coerulescens;VU
+994;*;Psittaciformes;Psittacidae;Pyrrhura cruentata;VU
+995;*;Psittaciformes;Psittacidae;Pyrrhura griseipectus;EN
+996;*;Psittaciformes;Psittacidae;Pyrrhura leucotis;VU
+997;;Psittaciformes;Psittacidae;Pyrrhura molinae;VU
+998;;Psittaciformes;Psittacidae;Pyrrhura pallescens;VU
+999;;Psittaciformes;Psittacidae;Pyrrhura perlata;VU
+1000;*;Psittaciformes;Psittacidae;Pyrrhura pfrimeri;EN
+1001;*;Psittaciformes;Psittacidae;Touit melanonotus;VU
+1002;*;Psittaciformes;Psittacidae;Touit surdus;VU
+1003;*;Pulmonata;Streptaxidae;Hypselartemonalveus;VU
+1004;*;Pulmonata;Bulimulidae;Thaumastus lundi;CR
+1005;*;Pulmonata;Lymnaeidae;Lymnaea rupestris;VU
+1006;*;Pulmonata;Odontostomidae;Macrodontesdautzenbergianus;VU
+1007;*;Pulmonata;Physidae;Physa marmorata;VU
+1008;*;Pulmonata;Planorbidae;Plesiophysa dolichomastix;CR
+1009;*;Pulmonata;Succineidae;Succinea lopesi;EN
+1010;*;Rajiformes;Dasyatidae;Bathytoshia centroura;CR
+1011;*;Rajiformes;Dasyatidae;Fontitrygon colarensis;VU
+1012;;Rajiformes;Dasyatidae;Hypanus americanus;VU
+1013;;Rajiformes;Dasyatidae;Hypanus marianae;VU
+1014;*;Rajiformes;Gymnuridae;Gymnura altavela;CR
+1015;*;Rajiformes;Myliobatidae;Manta birostris;VU
+1016;*;Rajiformes;Myliobatidae;Mobula mobular;VU
+1017;*;Rajiformes;Myliobatidae;Mobula tarapacana;VU
+1018;*;Rajiformes;Myliobatidae;Mobula thurstoni;VU
+1019;*;Rajiformes;Myliobatidae;Myliobatis freminvillei;EN
+1020;*;Rajiformes;Myliobatidae;Myliobatis goodei;CR
+1021;*;Rajiformes;Myliobatidae;Myliobatis ridens;CR
+1022;*;Rajiformes;Myliobatidae;Rhinoptera brasiliensis;CR
+1023;*;Rajiformes;Potamotrygonidae;Paratrygon aiereba;CR
+1024;*;Rajiformes;Rajidae;Atlantoraja castelnaui;EN
+1025;;Rajiformes;Rajidae;Atlantoraja cyclophora;VU
+1026;*;Rajiformes;Rajidae;Rioraja agassizii;VU
+1027;*;Rajiformes;Rajidae;Sympterygia acuta;EN
+1028;*;Rajiformes;Rajidae;Sympterygiabonapartii;EN
+1029;*;Rajiformes;Rhinobatidae;Pseudobatos horkelii;CR
+1030;;Rajiformes;Rhinobatidae;Pseudobatos percellens;VU
+1031;*;Rajiformes;Rhinobatidae;Zapteryxbrevirostris;VU
+1032;;Rajiformes;Urolophidae;Urotrygon microphthalmum;VU
+1033;*;Rodentia;Cricetidae;Noronhomys vespuccii;EX
+1034;*;Rodentia;Caviidae;Cavia intermedia;CR
+1035;*;Rodentia;Caviidae;Kerodon acrobata;VU
+1036;*;Rodentia;Caviidae;Kerodon rupestris;VU
+1037;*;Rodentia;Cricetidae;Akodon mystax;VU
+1038;*;Rodentia;Cricetidae;Cerradomys goytaca;EN
+1039;*;Rodentia;Cricetidae;Euryoryzomys lamia;EN
+1040;*;Rodentia;Cricetidae;Gyldenstolpia planaltensis;EN
+1041;*;Rodentia;Cricetidae;Juscelinomys candango;CR (PEX)
+1042;*;Rodentia;Cricetidae;Microakodontomys transitorius;EN
+1043;*;Rodentia;Cricetidae;Oligoryzomys rupestris;EN
+1044;*;Rodentia;Cricetidae;Rhipidomys cariri;VU
+1045;*;Rodentia;Cricetidae;Rhipidomys tribei;EN
+1046;*;Rodentia;Cricetidae;Thalpomys cerradensis;VU
+1047;*;Rodentia;Cricetidae;Thalpomys lasiotis;EN
+1048;*;Rodentia;Cricetidae;Wilfredomys oenax;EN
+1049;*;Rodentia;Ctenomyidae;Ctenomys bicolor;EN
+1050;*;Rodentia;Ctenomyidae;Ctenomys flamarioni;EN
+1051;*;Rodentia;Ctenomyidae;Ctenomys lami;EN
+1052;*;Rodentia;Ctenomyidae;Ctenomys minutus;VU
+1053;*;Rodentia;Echimyidae;Callistomys pictus;EN
+1054;*;Rodentia;Echimyidae;Phyllomys brasiliensis;EN
+1055;*;Rodentia;Echimyidae;Phyllomys lundi;EN
+1056;*;Rodentia;Echimyidae;Phyllomys thomasi;EN
+1057;*;Rodentia;Echimyidae;Phyllomys unicolor;CR
+1058;*;Rodentia;Echimyidae;Trinomys eliasi;VU
+1059;*;Rodentia;Echimyidae;Trinomys mirapitanga;EN
+1060;*;Rodentia;Echimyidae;Trinomys moojeni;EN
+1061;*;Rodentia;Echimyidae;Trinomys yonenagae;EN
+1062;*;Rodentia;Erethizontidae;Chaetomys subspinosus;VU
+1063;*;Rodentia;Erethizontidae;Coendou speratus;EN
+1064;*;Schizomida;Hubbardiidae;Rowlandius ubajara;CR
+1065;*;Scleractinia;Mussidae;Mussismilia braziliensis;VU
+1066;*;Scleractinia;Mussidae;Mussismilia harttii;EN
+1067;*;Scolopendromorpha;Cryptopidae;Cryptopsiporangensis;EN
+1068;*;Scolopendromorpha;Cryptopidae;Cryptopsspelaeoraptor;CR
+1069;*;Scolopendromorpha;Scolopendridae;Scolopendropsisduplicata;CR
+1070;;Scolopendromorpha;Scolopocryptopidae;Newportia potiguar;VU
+1071;;Scolopendromorpha;Scolopocryptopidae;Newportia spelaea;CR
+1072;;Scolopendromorpha;Scolopocryptopidae;Scolopocryptopstroglocaudatus;EN
+1073;*;Scorpaeniformes;Scorpaenidae;Scorpaenodesinsularis;VU
+1074;*;Scorpiones;Buthidae;Ananteris infuscata;EN
+1075;*;Scorpiones;Buthidae;Troglorhopalurus translucidus;EN
+1076;*;Scorpiones;Chactidae;Hadrurochactas araripe;CR
+1077;*;Scorpiones;Chactidae;Hadrurochactas brejo;CR
+1078;*;Siluriformes;Ariidae;Genidens barbus;EN
+1079;*;Siluriformes;Ariidae;Genidens planifrons;CR
+1080;*;Siluriformes;Ariidae;Paragenidens grandoculis;CR
+1081;*;Siluriformes;Ariidae;Sciades parkeri;VU
+1082;*;Siluriformes;Callichthyidae;Corydoras lacerdai;EN
+1083;*;Siluriformes;Callichthyidae;Scleromystax macropterus;EN
+1084;*;Siluriformes;Doradidae;Kalyptodoras bahiensis;EN
+1085;*;Siluriformes;Doradidae;Rhynchodoras xingui;EN
+1086;*;Siluriformes;Heptapteridae;Chasmocranusbrachynemus;EN
+1087;*;Siluriformes;Heptapteridae;Heptapterus multiradiatus;CR (PEX)
+1088;*;Siluriformes;Heptapteridae;Pimelodella kronei;EN
+1089;*;Siluriformes;Heptapteridae;Pimelodella spelaea;EN
+1090;*;Siluriformes;Heptapteridae;Rhamdia jequitinhonha;VU
+1091;*;Siluriformes;Heptapteridae;Rhamdiopsis krugi;VU
+1092;*;Siluriformes;Heptapteridae;Taunayia bifasciata;VU
+1093;*;Siluriformes;Loricariidae;Ancistrus cryptophthalmus;EN
+1094;*;Siluriformes;Loricariidae;Ancistrus formoso;VU
+1095;*;Siluriformes;Loricariidae;Ancistrus minutus;EN
+1096;*;Siluriformes;Loricariidae;Baryancistrus longipinnis;CR
+1097;*;Siluriformes;Loricariidae;Baryancistrus niveatus;CR
+1098;*;Siluriformes;Loricariidae;Delturus parahybae;CR
+1099;*;Siluriformes;Loricariidae;Harttia depressa;EN
+1100;*;Siluriformes;Loricariidae;Harttia dissidens;VU
+1101;;Siluriformes;Loricariidae;Harttia panara;VU
+1102;;Siluriformes;Loricariidae;Harttia villasboas;VU
+1103;*;Siluriformes;Loricariidae;Hemiancistrus megalopteryx;EN
+1104;*;Siluriformes;Loricariidae;Hypancistrus zebra;CR
+1105;;Siluriformes;Loricariidae;Hypostomussubcarinatus;CR
+1106;*;Siluriformes;Loricariidae;Isbrueckerichthys saxicola;EN
+1107;*;Siluriformes;Loricariidae;Leporacanthicusjoselimai;VU
+1108;*;Siluriformes;Loricariidae;Lithoxus lithoides;VU
+1109;*;Siluriformes;Loricariidae;Loricaria coximensis;CR
+1110;*;Siluriformes;Loricariidae;Microlepidogaster perforatus;CR
+1111;*;Siluriformes;Loricariidae;Neoplecostomus botucatu;VU
+1112;*;Siluriformes;Loricariidae;Otothyris juquiae;CR
+1113;*;Siluriformes;Loricariidae;Parancistrus nudiventris;EN
+1114;*;Siluriformes;Loricariidae;Pareiorhaphis nasuta;CR
+1115;*;Siluriformes;Loricariidae;Pareiorhaphis scutula;EN
+1116;*;Siluriformes;Loricariidae;Parotocinclus spilurus;EN
+1117;;Siluriformes;Loricariidae;Plesioptopoma curvidens;CR
+1118;*;Siluriformes;Loricariidae;Pogonopoma obscurum;EN
+1119;*;Siluriformes;Loricariidae;Pogonopoma parahybae;EN
+1120;*;Siluriformes;Loricariidae;Pseudotocinclus juquiae;CR
+1121;*;Siluriformes;Loricariidae;Pseudotocinclus tietensis;EN
+1122;*;Siluriformes;Loricariidae;Scobinancistrusaureatus;VU
+1123;*;Siluriformes;Loricariidae;Scobinancistruspariolispos;VU
+1124;*;Siluriformes;Pimelodidae;Aguarunichthys tocantinsensis;EN
+1125;*;Siluriformes;Pimelodidae;Conorhynchos conirostris;EN
+1126;*;Siluriformes;Pimelodidae;Pimelodus joannis;VU
+1127;*;Siluriformes;Pimelodidae;Pimelodus stewartii;VU
+1128;;Siluriformes;Pimelodidae;Pseudoplatystoma corruscans;VU
+1129;*;Siluriformes;Pimelodidae;Steindachneridionamblyurum;CR
+1130;*;Siluriformes;Pimelodidae;Steindachneridiondoceanum;CR
+1131;*;Siluriformes;Pimelodidae;Steindachneridionmelanodermatum;EN
+1132;*;Siluriformes;Pimelodidae;Steindachneridionparahybae;EN
+1133;*;Siluriformes;Pimelodidae;Steindachneridionscriptum;EN
+1134;*;Siluriformes;Pseudopimelodidae;Lophiosilurusalexandri;VU
+1135;;Siluriformes;Pseudopimelodidae;Microglanis maculatus;CR
+1136;*;Siluriformes;Pseudopimelodidae;Microglanis robustus;CR
+1137;*;Siluriformes;Trichomycteridae;Cambeva crassicaudata;EN
+1138;*;Siluriformes;Trichomycteridae;Cambeva igobi;VU
+1139;*;Siluriformes;Trichomycteridae;Cambeva mboycy;EN
+1140;*;Siluriformes;Trichomycteridae;Cambeva paolence;EN
+1141;*;Siluriformes;Trichomycteridae;Cambeva papillifera;EN
+1142;;Siluriformes;Trichomycteridae;Cambeva pascuali;CR
+1143;*;Siluriformes;Trichomycteridae;Cambeva tropeiro;CR
+1144;*;Siluriformes;Trichomycteridae;Glaphyropoma spinosum;VU
+1145;*;Siluriformes;Trichomycteridae;Ituglanis bambui;CR
+1146;*;Siluriformes;Trichomycteridae;Ituglanis cahyensis;EN
+1147;*;Siluriformes;Trichomycteridae;Ituglanis epikarsticus;VU
+1148;*;Siluriformes;Trichomycteridae;Ituglanis mambai;EN
+1149;*;Siluriformes;Trichomycteridae;Ituglanis passensis;VU
+1150;*;Siluriformes;Trichomycteridae;Ituglanis ramiroi;VU
+1151;*;Siluriformes;Trichomycteridae;Listrura camposi;CR
+1152;*;Siluriformes;Trichomycteridae;Listruranematopteryx;CR
+1153;*;Siluriformes;Trichomycteridae;Microcambeva draco;EN
+1154;*;Siluriformes;Trichomycteridae;Trichogenes claviger;CR
+1155;*;Siluriformes;Trichomycteridae;Trichomycterus dali;VU
+1156;*;Siluriformes;Trichomycteridae;Trichomycterusitacarambiensis;CR
+1157;*;Siluriformes;Trichomycteridae;Trichomycterus rubbioli;VU
+1158;*;Siluriformes;Trichomycteridae;Trichomycterus triguttatus;CR
+1159;*;Sirenia;Trichechidae;Trichechus inunguis;VU
+1160;*;Sirenia;Trichechidae;Trichechus manatus;EN
+1161;;Spirostreptida;Pseudonannolenidae;Pseudonannolene lundi;CR
+1162;*;Spirostreptida;Spirostreptidae;Pseudonannolene ambuatinga;EN
+1163;*;Spirostreptida;Spirostreptidae;Pseudonannolene imbirensis;EN
+1164;*;Spirostreptida;Spirostreptidae;Pseudonannolene spelaea;CR
+1165;*;Spirostreptida;Spirostreptidae;Pseudonannolene tocaiensis;CR
+1166;*;Spongillida;Spongillidae;Racekiela cavernicola;VU
+1167;*;Spongillida;Metaniidae;Corvomeyenia epilithosa;VU
+1168;*;Squamata;Amphisbaenidae;Amphisbaena arda;EN
+1169;*;Squamata;Amphisbaenidae;Amphisbaena frontalis;EN
+1170;*;Squamata;Amphisbaenidae;Amphisbaena nigricauda;EN
+1171;*;Squamata;Amphisbaenidae;Amphisbaena supernumeraria;EN
+1172;*;Squamata;Amphisbaenidae;Amphisbaena uroxena;EN
+1173;*;Squamata;Amphisbaenidae;Leposternon kisteumacheri;VU
+1174;*;Squamata;Amphisbaenidae;Leposternonoctostegum;EN
+1175;*;Squamata;Amphisbaenidae;Leposternonscutigerum;EN
+1176;*;Squamata;Boidae;Corallus cropanii;VU
+1177;*;Squamata;Dactyloidae;Dactyloanasofrontalis;VU
+1178;*;Squamata;Dactyloidae;Dactyloapseudotigrina;VU
+1179;*;Squamata;Dipsadidae;Apostolepis arenaria;EN
+1180;*;Squamata;Dipsadidae;Apostolepis gaboi;EN
+1181;*;Squamata;Dipsadidae;Apostolepis quirogai;EN
+1182;*;Squamata;Dipsadidae;Apostolepis striata;EN
+1183;*;Squamata;Dipsadidae;Atractus caete;EN
+1184;*;Squamata;Dipsadidae;Atractus ronnie;EN
+1185;*;Squamata;Dipsadidae;Atractus thalesdelemai;EN
+1186;*;Squamata;Dipsadidae;Calamodontophis ronaldoi;EN
+1187;*;Squamata;Dipsadidae;Ditaxodon taeniatus;VU
+1188;*;Squamata;Dipsadidae;Echinanthera cephalomaculata;VU
+1189;*;Squamata;Dipsadidae;Phalotris multipunctatus;EN
+1190;*;Squamata;Dipsadidae;Philodryas livida;VU
+1191;*;Squamata;Dipsadidae;Rodriguesophis chui;EN
+1192;*;Squamata;Dipsadidae;Rodriguesophis scriptorcibatus;EN
+1193;*;Squamata;Gymnophthalmidae;Bachia didactyla;EN
+1194;*;Squamata;Gymnophthalmidae;Bachia psamophila;CR
+1195;*;Squamata;Gymnophthalmidae;Calyptommatusleiolepis;EN
+1196;*;Squamata;Gymnophthalmidae;Calyptommatusnicterus;EN
+1197;*;Squamata;Gymnophthalmidae;Calyptommatussinebrachiatus;EN
+1198;*;Squamata;Gymnophthalmidae;Colobodactylusdalcyanus;EN
+1199;*;Squamata;Gymnophthalmidae;Heterodactyluslundii;VU
+1200;*;Squamata;Gymnophthalmidae;Heterodactylusseptentrionalis;EN
+1201;*;Squamata;Gymnophthalmidae;Leposoma annectans;VU
+1202;*;Squamata;Gymnophthalmidae;Leposomabaturitensis;EN
+1203;*;Squamata;Gymnophthalmidae;Leposomananodactylus;EN
+1204;*;Squamata;Gymnophthalmidae;Leposoma puk;EN
+1205;*;Squamata;Gymnophthalmidae;Placosoma cipoense;EN
+1206;*;Squamata;Gymnophthalmidae;Procellosaurinus tetradactylus;EN
+1207;*;Squamata;Leiosauridae;Enyalius erythroceneus;CR
+1208;*;Squamata;Liolaemidae;Liolaemusarambarensis;EN
+1209;*;Squamata;Liolaemidae;Liolaemus lutzae;CR
+1210;*;Squamata;Liolaemidae;Liolaemusoccipitalis;VU
+1211;*;Squamata;Mabuyidae;Brasiliscincus caissara;EN
+1212;*;Squamata;Phyllodactylidae;Homonotauruguayensis;VU
+1213;*;Squamata;Sphaerodactylidae;Coleodactylusnatalensis;EN
+1214;*;Squamata;Sphaerodactylidae;Gonatodes tapajonicus;EN
+1215;*;Squamata;Teiidae;Ameiva parecis;EN
+1216;*;Squamata;Teiidae;Ameivula nativo;EN
+1217;*;Squamata;Teiidae;Contomastix vacariensis;VU
+1218;*;Squamata;Teiidae;Glaucomastix abaetensis;EN
+1219;*;Squamata;Teiidae;Glaucomastix littoralis;EN
+1220;*;Squamata;Teiidae;Kentropyx vanzoi;VU
+1221;*;Squamata;Tropidophiidae;Tropidophisgrapiuna;VU
+1222;*;Squamata;Tropiduridae;Eurolophosaurusamathites;EN
+1223;*;Squamata;Tropiduridae;Stenocercus azureus;EN
+1224;*;Squamata;Tropiduridae;Stenocercusdumerilii;VU
+1225;*;Squamata;Tropiduridae;Tropidurus erythrocephalus;VU
+1226;*;Squamata;Tropiduridae;Tropidurus hygomi;VU
+1227;*;Squamata;Tropiduridae;Tropidurus imbituba;CR
+1228;*;Squamata;Tropiduridae;Tropiduruspsammonastes;EN
+1229;*;Squamata;Viperidae;Bothrops alcatraz;CR
+1230;*;Squamata;Viperidae;Bothrops insularis;CR
+1231;*;Squamata;Viperidae;Bothrops muriciensis;EN
+1232;*;Squamata;Viperidae;Bothrops otavioi;CR
+1233;*;Squamata;Viperidae;Bothrops pirajai;EN
+1234;*;Squatiniformes;Squatinidae;Squatina argentina;CR
+1235;*;Squatiniformes;Squatinidae;Squatina guggenheim;CR
+1236;*;Squatiniformes;Squatinidae;Squatina occulta;CR
+1237;*;Strigiformes;Strigidae;Glaucidium mooreorum;EX
+1238;*;Strigiformes;Strigidae;Pulsatrix perspicillata pulsatrix;CR
+1239;*;Strigiformes;Strigidae;Strix huhula albomarginata;VU
+1240;*;Stylommatophora;Bulimulidae;Tomigerusgibberulus;EN
+1241;*;Stylommatophora;Megalobulimidae;Megalobulimus cardosoi;CR
+1242;*;Stylommatophora;Strophocheilidae;Gonyostomus insularis;EN
+1243;*;Suberitida;Halichondriidae;Halichondria cebimarensis;VU
+1244;*;Suberitida;Halichondriidae;Halichondria tenebrica;VU
+1245;*;Suliformes;Fregatidae;Fregata minor;CR
+1246;*;Suliformes;Fregatidae;Fregata trinitatis;CR
+1247;*;Suliformes;Sulidae;Sula sula;EN
+1248;*;Symphypleona;Arrhopalitidae;Arrhopalites alambariensis;VU
+1249;*;Symphypleona;Arrhopalitidae;Arrhopalites botuveraensis;VU
+1250;*;Symphypleona;Arrhopalitidae;Arrhopalites gnaspinii;CR
+1251;*;Symphypleona;Arrhopalitidae;Arrhopalites heteroculatus;VU
+1252;*;Symphypleona;Arrhopalitidae;Arrhopalites lawrencei;VU
+1253;*;Symphypleona;Arrhopalitidae;Arrhopalites paranaensis;CR
+1254;*;Syngnathiformes;Syngnathidae;Hippocampus erectus;VU
+1255;*;Syngnathiformes;Syngnathidae;Hippocampuspatagonicus;VU
+1256;*;Syngnathiformes;Syngnathidae;Hippocampus reidi;VU
+1257;*;Terebratulida;Bouchardiidae;Bouchardia rosea;EN
+1258;*;Testudines;Chelidae;Ranacephala hogei;VU
+1259;*;Testudines;Cheloniidae;Caretta caretta;VU
+1260;*;Testudines;Cheloniidae;Eretmochelysimbricata;EN
+1261;*;Testudines;Cheloniidae;Lepidochelysolivacea;VU
+1262;*;Testudines;Dermochelyidae;Dermochelys coriacea;CR
+1263;*;Tinamiformes;Tinamidae;Crypturellus zabele;VU
+1264;*;Tinamiformes;Tinamidae;Nothura minor;EN
+1265;*;Tinamiformes;Tinamidae;Taoniscus nanus;EN
+1266;*;Tinamiformes;Tinamidae;Tinamus tao;VU
+1267;;Torpediniformes;Narcinidae;Narcine brasiliensis;VU
+1268;;Tricladida;Dimarcusidae;Hausera hauseri;VU
+1269;;Tricladida;Dugesiidae;Girardia arenicola;CR
+1270;;Tricladida;Dugesiidae;Girardia desiderensis;CR
+1271;;Tricladida;Dugesiidae;Girardia multidiverticulata;CR
+1272;;Tricladida;Dugesiidae;Girardia paucipuntacta;CR
+1273;;Tricladida;Uteriporidae;Sluysia triapertura;CR
+1274;*;Trogoniformes;Trogonidae;Trogon collaris eytoni;EN
+1275;*;Unionoida;Hyriidae;Diplodon koseritzi;EN
+1276;*;Unionoida;Mycetopodidae;Mycetopoda legumen;EN
+1277;*;Valvatida;Ophidiasteridae;Linckia guildingi;VU
+1278;*;Valvatida;Oreasteridae;Oreaster reticulatus;VU
+1279;;Zygentoma;Nicoletiidae;Cubacubana spelaea;VU
+1280;*;Zygoptera;Coenagrionidae;Aceratobasis cornicauda;VU
+1281;*;Zygoptera;Coenagrionidae;Aceratobasis mourei;EN
+1282;*;Zygoptera;Coenagrionidae;Fluminagrion taxaense;CR (PEX)
