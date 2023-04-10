@@ -3,49 +3,65 @@ library(dplyr, warn.conflicts = FALSE)
 
 
 # set the url
-url <- "https://www.datacamp.com/courses-all?number=1&technology=r"
+w <- c("", "/page/1", "/page/2", "/page/3", "/page/4")
 
+url <- sprintf(
+        "https://www.datacamp.com/courses-all%s?technology=r", w
+)
+
+url <- "https://www.datacamp.com/courses-all?technology=r"
 # Read the url
 web_page <- url %>%
-        read_html()
+        map(read_html)
 
-# Get only h2 css tag
-h2 <- web_page
-        html_nodes(css = ".css-69n05k-Search") %>%
-        html_nodes(css = "h2") %>%
-        html_text()
+# Get only h2 css tag to extract course title
+h2 <- web_page %>%
+        map(html_nodes, css = ".css-69n05k-Search") %>%
+        map(html_nodes, css = "h2") %>%
+        map(html_text)
 
-# Get only p css tag
+course <- tibble::tibble(course = h2) %>% tidyr::unnest(cols = c(course))
+
+# Get only p css tag to extract course description
 p <- web_page %>%
-        html_nodes(css = ".css-69n05k-Search") %>%
-        html_nodes(css = "p") %>%
-        html_text()
+        map(html_nodes, css = ".css-69n05k-Search") %>%
+        map(html_nodes, css = "p") %>%
+        map(html_text)
 
-# Get only span css tag
+description <- tibble::tibble(description = p) %>%
+        tidyr::unnest(cols = c(description))
+
+# Get only span css tag to extract course duration, type and instructors
 span <- web_page %>%
-        html_nodes(css = ".css-69n05k-Search") %>%
-        html_nodes("article") %>%
-        html_nodes(css = "span") %>%
-        html_text()
+        map(html_nodes, css = ".css-69n05k-Search") %>%
+        map(html_nodes ,"article") %>%
+        map(html_nodes ,css = "span") %>%
+        map(html_text)
+
+span_df <- tibble::tibble(x = span) %>% tidyr::unnest(cols = c(x))
 
 # Extract all that contains a digit followed by the "hours" word
-duration <- gsub(".*(\\d+.*)", "\\1", span)
-duration <- duration[grepl("\\d+", span)]
+duration <- span_df %>%
+        mutate(duration = gsub(".*(\\d+.*)", "\\1", x)) %>%
+        filter(grepl("^\\d+", duration)) %>%
+        select(duration)
+
 
 # Extract course type
-type <- gsub("Tag", "", span[grep("^Tag", span)])
+type <- span_df %>%
+        filter(grepl("^Tag", x)) %>%
+        mutate(type = gsub("Tag", "", x)) %>%
+        select(type)
 
 # Extract instructor's names
-instructor <- gsub("User", "", span[grep("^User", span)])
+instructor <- span_df %>%
+        mutate(x = gsub("\\[email protected\\]", "", x)) %>%
+        filter(grepl("^User", x)) %>%
+        mutate(instructor = gsub("User", "", x)) %>%
+        select(instructor)
 
-# Set a data frame
-df <- data.frame(
-        course = h2,
-        description = p,
-        duration = duration,
-        type = type,
-        instructor = instructor
-)
+# Set the final data frame
+df <- cbind(course, description, type, duration, instructor)
 
 # Save data frame to disk
 write.csv2(df, "./datacamp_R_courses.csv", row.names = FALSE)
